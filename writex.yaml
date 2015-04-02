@@ -1,0 +1,11 @@
+template: tvooo-thesis
+abstract: true
+bibtex: true
+engine: xelatex
+preamble: preamble.tex
+titlePage: title.tex
+document:
+  author: Tim von Oldenburg
+  date: \today
+  title: Thesis Project II
+  subtitle: How to write a headline that means absolutely nothing

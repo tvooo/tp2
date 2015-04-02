@@ -1,1 +1,3 @@
 # Methodology
+
+Lorem ipsum.
