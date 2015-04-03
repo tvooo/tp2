@@ -1,0 +1,12 @@
+- explore how different kinds of cyclists interact with each other (commuter, sport, trike, ...)
+- people like to exchange knowledge/pose with their bikes, racing bikes, lowrider, three wheeler...
+- maybe look into interaction between cyclists and other road users? cars?
+- wheely's: new purposes for bikes. auch dieses fahrrad-wohnmobil
+- interview ppl about their experience with random togetherness
+- random competition/races
+- what influences play a role? bike lane or not; other bikers; intentions; racing or calm cycling. explore external and internal influences
+- compare random togetherness of different modes: runners, cyclists, bus riders
+- in which situations, moods, circumstances do ppl look for social interaction, and when do they avoid it?
+- cultural differences between people in malmo / very international audience here
+- social interaction leads to distraction. can be dangerous. explore digitality, as many cyclists use their phone on the bike
+- more people bike, eg bike sharing. there is a tendency for outdoor activities, sustainability etc
