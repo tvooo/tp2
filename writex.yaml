@@ -1,6 +1,8 @@
 template: tvooo-thesis
 abstract: true
 bibtex: true
+glossary: true
+level: chapter
 engine: xelatex
 preamble: preamble.tex
 titlePage: title.tex
