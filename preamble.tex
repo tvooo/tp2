@@ -1,1 +1,15 @@
+\usepackage[scale=0.75]{geometry} % Um die Titelseite zu zentrieren
+\usepackage{eso-pic}
+
 \hyphenation{body-storming}
+
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][0.38\paperheight]{1.1\paperwidth}{%
+\vfill
+%\centering
+\hspace{-0.5cm}
+\includegraphics[width=1.1\paperwidth,
+keepaspectratio]{pattern.png}%
+%\vfill
+}}}
