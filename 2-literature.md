@@ -27,8 +27,8 @@ Marc Augé coined the term 'non-place' and used it to describe spaces of transit
 
 ## Social practice
 
-A prominent research project regarding the social practice of bicycling took place during the years \todo as a joint effort of Rachel Aldred and Katrina Jungnickel [e.g. @jungnickel; @jungnickel_cyclings_2014; @aldred2010; @aldred2012; @outthere].
-Cycling cultures
+A prominent research project regarding the social practice of bicycling was taking place in four different UK cities as a joint effort of Rachel Aldred and Katrina Jungnickel [e.g. @jungnickel_cyclings_2014; @aldred2010; @aldred2012].
+"Cycling Cultures", a multi-method sociological research project, yielded insights on cyclist identity, political aspects, and methodology [@jungnickel; @outthere].
 
 ## A framework for social interaction and meaning-making in a vélomobile environment
 
@@ -41,13 +41,23 @@ Of special relevance to my research is also the work done by Katrina Jungnickel 
 
 Promising seems also the notion of transferring the *flaneur* to the world of bicycling. It is approached most prominently by @flaneur, but is also adapted by @esbjornsson to motorcycling.
 
-## Tangents to the design space
+## Designing for cycle-based interaction
+
+While arguably most of the relevant literature regarding bicycling originates in the social sciences, there are some works within different areas of design that deal with bicycling or related concepts. 
+
 
 Looking at bicycling and mobility, one can see many smartphone applications that aim to enhance the ride experience. While most of them are targeted towards professional and recreational bicycling (e.g. Strava, Map My Ride, Runtastic) and some towards activism (e.g. Bikes vs. Cars, Charity Miles, Social Cyclist), it is hard to find examples that touch on sociality or serendipity in-action.
 
-@esbjornsson describe Hocman, a mobile application that fosters interaction between motorcyclists to complement random encounters on the road. @cromwell approaches indirect social interaction between bicyclists (which include random vélomobile formations-in-action) from a perspective of landscape architecture, designing bicycle facilities to enhance the social experience of everyday bicycling. However, the interaction design space seems largely unexplored.
+\todo[MORE HERE] @esbjornsson describe Hocman, a mobile application that fosters interaction between motorcyclists to complement random encounters on the road.
+Hocman creates a virtual layer on top of the motorcycling community, which allows its members to enjoy each others sociability - however, not in situ.
 
-@rowland did this \todo
+\todo @cromwell approaches indirect social interaction between bicyclists (which include random vélomobile formations-in-action) from a perspective of landscape architecture, designing bicycle facilities to enhance the social experience of everyday bicycling.
+Cromwell finds that a main aspect to keep in mind while designing for cycle-based interaction is *speed* and *time*. He concludes that, for social interaction to take place, upward slopes are actually good - because they decrease the maximum speed of any bicyclist, thus making the difference in cycling speed smaller and allowing people to stay close to each other for a longer period. 
+As a landscape architect, Cromwell aims to shape the landscape in order to better the conditions for social interaction. His work gives opportunities, but does not enforce interactions that are unwanted. This is an important aspect, as we will learn in a later chapter that the readiness for social interaction is depending on culture (and other circumstances). Designing for cycle-based interaction must acknowledge this fact.
+
+
+@rowland focus on interactive experiences for cyclists. By analysing two different experiences they derive eight lessons for designing cycle-based interaction: cycling proficiency, physicality, impact of the environment, media and hardware design, collaboration, and safety.
+Although both of the examined interactive experiences are solitary, most of the lessons learned are relevant for this thesis as well. Furthermore, one can derive lessons of their own concerning sociability in bicycling.
 
 @cheng said that \todo
 
