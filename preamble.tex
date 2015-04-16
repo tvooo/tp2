@@ -1,6 +1,6 @@
 \usepackage[scale=0.75]{geometry} % Um die Titelseite zu zentrieren
 \usepackage{eso-pic}
-
+\usepackage{soul}
 \hyphenation{body-storming}
 
 \newcommand\BackgroundPic{
@@ -13,3 +13,5 @@
 keepaspectratio]{pattern.png}%
 %\vfill
 }}}
+
+\newcommand{\todo}[1][TODO]{\hl{#1}}
