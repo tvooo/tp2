@@ -9,5 +9,5 @@ titlePage: title.tex
 document:
   author: Tim von Oldenburg
   date: \today
-  title: Thesis Project II
-  subtitle: How to write a headline that means absolutely nothing
+  title: Designing for cycle-based interaction 
+  subtitle: Penetrating the design space

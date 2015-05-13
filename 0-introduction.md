@@ -2,6 +2,9 @@
 
 <!-- Ok, what's this about? -->
 
+
+\todo[Mention that it is targeted towards designers, design researches, anthropologists]
+
 Bicycling is often considered to be a very solitary activity. But even when we are not riding intentionally in a group --- be it for a bicycle tour or as a group commute --- bicycling can still be a social experience, as it does not take place in isolation, but "in complex choreography with other multi-modal road users" [@outthere].
 
 Compared to other modes of transportation, bicycling offers a unique combination of experiential qualities. Bicycling happens 'out there', outside of an enclosed room, which allows us to use all our senses and experience the trip and the environment with our whole body. This allows for complex interaction which would not be possible e.g. within a car. At the same time, bicycling happens at a much higher pace than walking, which limits the range of possible interactions somewhat.
@@ -34,3 +37,6 @@ Designers are starting to recognise the possibilities that everyday mundane road
 
 In order to design for bicyclists, we must find ways to identify, document, and examine their subtle interactions on the road. In this thesis project I enquire into cycle-based interactions using design experiments and different media, and suggest modes of engaging with vélomobile formations-in-action specifically. In doing so, I aim to contribute to the --- still small --- body of interaction design knowledge in this area.
 
+<!-- - Create and execute design experiments that raise interaction design knowledge regarding the phenomenon 
+2. How can random vélomobile formations-in-action be constructively presented in order to convey a richer account of their experience?
+-->
