@@ -137,6 +137,13 @@ The current speed or pace is, unfortunately, not tracked by The Bike Data Projec
 
 ### Results
 
+\begin{figure*}[!ht]
+  \centering
+  \includegraphics[keepaspectratio,width=\textwidth]{exp2-overview.png}
+  \caption{Map}
+  \label{fig:overview}
+\end{figure*}
+
 \todo[Put the identified places here]
 
 ### Reflection
@@ -174,9 +181,29 @@ might be relevant.*
 
 ### Iteration 1 --- Talking about the ride
 
+#### Reflection > Laura
+
+Spinney2011: One way in which researchers have tried to do this is by employing video as a
+way of retaining and evoking some of the context and detail of the practices under
+scrutiny whilst allowing the researcher to talk through practices ‘as they happen’
+during playback with participants (see for example Laurier, 2004, 2010; Brown, 2008;
+Spinney, 2008; Brown & Spinney, 2009). Laurier (2010) calls this use of video in
+such instances a form of ‘seeing there’.
+
 ### Iteration 2 --- Talking to the ride
 
 You have a conversation with the experience - oh man, classic!
+
+#### Setup
+
+- both participant and researcher get same equipment: gopro and headset
+- researcher calls participant
+- call is recorded
+- video cameras must be started at exact same point in time
+
+#### postproduction
+
+- videos are cut to be side-by-side, or researcher-within-participant, along with call recording as audio
 
 ### Reflection
 

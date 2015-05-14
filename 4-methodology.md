@@ -14,7 +14,6 @@ Research question: How can we represent the biking experience and make subtle cy
 The ways of enquiry in the experiments mostly aim to represent some factors of the bicycling experience, through some sort of mapping and through videography. They are accompanied by phases of reflection-in-action or post-action reflection.
 
 
-
 ## Embodiment --- experiencing and studying bicycling practice in the field
 
 \todo

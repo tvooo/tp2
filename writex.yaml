@@ -9,5 +9,5 @@ titlePage: title.tex
 document:
   author: Tim von Oldenburg
   date: \today
-  title: Designing for cycle-based interaction 
-  subtitle: Penetrating the design space
+  title: Representing cycle-based interaction 
+  subtitle: An interaction design exploration into bicycling research
