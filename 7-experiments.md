@@ -23,7 +23,12 @@ As this experiment aims to compare a single route over time, I picked a route th
 
 Prior to each ride, I mounted my phone on my handlebars via a rubber bike mount. I used a simple audio recording app (the same as in the pilot experiment) without a headset or external microphone to capture the soundscape.
 
-\todo[Photo of phone mounted on handlebars]
+\begin{figure*}[!ht]
+  \centering
+  \includegraphics[keepaspectratio,width=0.5\textwidth]{exp1-setup.jpg}
+  \caption{Setup for mobile audio capture}
+  \label{fig:exp1setup}
+\end{figure*}
 
 ### Execution
 
@@ -76,25 +81,24 @@ However, I found that the interesting parts are those that break out from the es
 What is the measure for "interaction" in these soundscapes? While the pilot experiment focused on the number of people around oneself, this experiment has focused on sound, and can there work with the types of sounds being heard or with distinct qualities, such as volume.
 
 Volume has only a very indirect relation to interaction; when we interact, we do not necessarily make a noise. This happens more frequently in direct, vocal interaction. But sometimes, noise arises alongside our interaction, for example the sound of brakes or a bell. On the other hand, volume is associated with behavioural imperatives, for example the silence in a library or the chatty noises in a café. While bicycling, however, loud noise generally implies busyness, be it due to traffic or construction sites.
-
-\todo
-
-- Few other cyclists at night -> less room for interaction
-- Most communication happens on the periphery of the road, e.g. 
-- Most room for interaction exist during phases of no mobility, e.g. at stop lights
-- When I stop, others go
+The fact that I met few cyclists when riding at night is reflected well in the audio --- but so is the lack of motorized traffic. This allows for the perception of the natural environment in more clarity. It also becomes clear that many events during a bicycle ride take place next to the road, not in its middle. During the ride we are so focused on the road, and videography supports this "tunnel vision". Audio, however, shifts the focus to the periphery of our perception.
+\todo[When I stop, others go]
 
 ### Reflection
 
-A bicycle ride's soundscape provides potential in two different directions
+The qualities of auditive representations offer interesting potential both for the bicycling researcher and her subject. This potential, however, is not in identifying specific interactions. Instead, it allows to capture the mood, if not the *character* of a single ride. Besides that, one can find patterns regarding the periphery of the ride --- surroundings, environment, urban landscape, traffic behaviour.
 
-- Helps identify patterns
-- Focus on what does NOT fit a pattern -> interactions and experiences are unique
-- Makes some things more obvious
+For a cyclist, an auditive representation can be a way to re-live the experience of his ride; it can also be a way to share the experience of his ride with others. Possible further design experiments could make use of the audio to accompany a narrative, for example of a bicycle race or tour.
+
+A researcher, I could be interested in the influence of different sound characters and parameters on the bicyclist. Do certain sounds, such as motorized traffic, cause distress --- and if so, which alternative routes offer a better soundscape? Can the soundscape be linked to socioeconomic factors of an area? What role does sound play in repairing interactional hitches?
+
+Also, it is worth looking at the audio separately from any video material. Both can be captured at the same time, using a single capturing device; but reviewing both at the same time makes it hard to focus on the audio, as vision is our predominant sense. \todo[source?]
+
+Finally, the temporal dimension --- comparing the same route over the course of time --- might shed light on why cyclists ride at certain times rather than at others.
+
+\todo[concluding sentence: auditive research has been used too seldomly, offers good complement to other modes]
 
 ## Experiment 2 --- Mapping spaces for interaction
-
-> Where is the action?
 
 This experiment builds on the premise that there are certain conditions that \todo[foster] social interaction on the bicycle. It tries to find geographical spaces within the city where these conditions exist; thus, it identifies places where interaction is most likely to take place --- interactional "hot spots".
 
