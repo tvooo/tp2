@@ -15,11 +15,11 @@
 The pilot experiment yielded two time-lapse videos of bicycle rides through Malmö. While listening through the audio files that I recorded in order to retrace the different \phenomenon that I was part of, I noticed a certain quality of the audio: just by listening, I could recall my ride in high detail --- I knew where I was just following along the playback, and the audio recalled detailed memories of the ride.
 However, in the end I produced the two time-lapse videos without any sound, as the original audio track sped-up would have sounded ridiculous. The end product, then, missed a richness that the audio could have provided.
 
-This experience led to the planning of Experiment 1. This design experiment aims to explore the soundscape of a single route over the time of one day. \todo[It aims to explore] if the space for possible interaction changes develops over the time of day, and tries to uncover qualities of the ride experience that are not visible and explicit at first.
+This experience led to the planning of Experiment 1. This design experiment aims to explore the soundscape of a single route over the time of one day. \todo[It aims to explore] the role of audio in representing a bicycling experience and how it develops over the time of day. It tries to uncover qualities of the ride experience that are not visible and explicit at first.
 
 ### Setup
 
-As this experiment aims to compare a single route over time, I picked a route that was convenient for me to ride --- one that I would ride frequently anyway. The route from my home in Rönneholm to the student union building of Malmö University in Dockan served therefore as experiment route. The route starts in a residential area, goes along a park and the city library, as well as along a busy road between a park and the old town, and ends in the industrial area of the harbour.
+As this experiment aims to compare a single route over time, I picked a route that was convenient for me to ride --- one that I would ride frequently anyway. The route from my home in Rönneholm to the student union building of Malmö University in Dockan served therefore as experiment route. The route starts in a residential area, goes along a park and the city library, as well as along a busy road between a park and the old town, and ends in the industrial area of the harbour. \todo[distance in km?]
 
 Prior to each ride, I mounted my phone on my handlebars via a rubber bike mount. I used a simple audio recording app (the same as in the pilot experiment) without a headset or external microphone to capture the soundscape.
 
@@ -39,9 +39,9 @@ With the phone mounted, I rode the route as I would normally do --- depending on
       
 Table:  Experiment 1 ride times and durations
 
-As can be seen, the ride durations do not differ much, except for the rides during rush hour. In the following, the different recordings were compared based on their wave form (amplitude) and the actual audio samples.
+\todo[fix last ride data]
 
-In order to do so, I created a Processing^[See [http://www.processing.org](http://www.processing.org)] sketch that allowed the presentation of the audio wave forms as well as playback.
+As can be seen, the ride durations do not differ much, except for the rides during rush hour. In the following, the different recordings were compared based on their wave form (amplitude) and the actual audio samples. In order to do so, I created a Processing^[See [http://www.processing.org](http://www.processing.org)] sketch that allowed the presentation of the audio as wave forms as well as playback.
 
 \begin{figure*}[!ht]
   \centering
@@ -50,14 +50,13 @@ In order to do so, I created a Processing^[See [http://www.processing.org](http:
   \label{fig:waveforms}
 \end{figure*}
 
-Figure \ref{fig:waveforms} shows the five waveforms of the tracks recorded on the rides forth. They are plotted below each other, for easy visual comparison. By 'stretching' each track to a certain width, I make sure that the X axis represents the route, rather than the time. Displaying the playhead at the same time position for each track, it has a different visual position as the tracks have a different time length.
+Figure \ref{fig:waveforms} shows the five wave forms of the tracks recorded on the rides forth. They are plotted below each other, for easy visual comparison. By 'stretching' each track to a certain width, I make sure that the X axis represents the route, rather than the time. Displaying the playhead at the same time position for each track, it has a different visual position (on the x axis) as the tracks have a different time length.
 
-The Processing sketch allows you to play the files and jump between them as they play.
+The Processing sketch allows you to play and pause the audio, and jump between the different rides as they play.
 
-<!-- allow to play a querschnitt through all the routes
-- play the same N seconds of each route, how do they change over time?-->
+### Results
 
-### Results & Reflection
+\todo[github?]
 
 #### Technical issues
 
@@ -72,11 +71,11 @@ Another common pattern is the long, nearly uninterrupted block of noise in the l
 
 However, I found that the interesting parts are those that break out from the established patterns. The waveform of rides 2 and 5, which happened during noon and night, respectively, is much more varying than the other ones --- especially in the last third, while riding next to the road. While it is similarly windy in all the tracks, during rides 2 and 5 there was a lot less motorized traffic on the road. This makes sense, given the respective times of day, but it is made very explicit in these soundscapes.
 
-#### Interaction qualities
+#### Interactional qualities
 
-What is the measure for "interaction" in these soundscapes? While the pilot experiment focused on the number of people around oneself, this experiment has focused on sound, and can there work with the types of sounds being heard or distinct qualities, such as volume.
+What is the measure for "interaction" in these soundscapes? While the pilot experiment focused on the number of people around oneself, this experiment has focused on sound, and can there work with the types of sounds being heard or with distinct qualities, such as volume.
 
-Volume has only a very indirect relation to interaction; when we interact, we do not necessarily make a noise. This happens more frequently in direct, vocal interaction. But sometimes, noise arises alongside our interaction, for example the sound of brakes or a bell. On the other hand, volume is associated with behavioural imperatives, for example the silence in a library or the chatty noises in a café. While bicycling, however, loud noise generally implies business, be it due to traffic or construction sites.
+Volume has only a very indirect relation to interaction; when we interact, we do not necessarily make a noise. This happens more frequently in direct, vocal interaction. But sometimes, noise arises alongside our interaction, for example the sound of brakes or a bell. On the other hand, volume is associated with behavioural imperatives, for example the silence in a library or the chatty noises in a café. While bicycling, however, loud noise generally implies busyness, be it due to traffic or construction sites.
 
 \todo
 
@@ -85,7 +84,9 @@ Volume has only a very indirect relation to interaction; when we interact, we do
 - Most room for interaction exist during phases of no mobility, e.g. at stop lights
 - When I stop, others go
 
-#### Reflection on this experiment
+### Reflection
+
+A bicycle ride's soundscape provides potential in two different directions
 
 - Helps identify patterns
 - Focus on what does NOT fit a pattern -> interactions and experiences are unique
@@ -95,68 +96,103 @@ Volume has only a very indirect relation to interaction; when we interact, we do
 
 > Where is the action?
 
-This experiment builds on the premise that there are certain conditions that \todo[foster] social interaction on the bicycle. It tries to find geographical spaces within the city where these conditions exist; thus, it identifies places where interaction is most likely to take place.
+This experiment builds on the premise that there are certain conditions that \todo[foster] social interaction on the bicycle. It tries to find geographical spaces within the city where these conditions exist; thus, it identifies places where interaction is most likely to take place --- interactional "hot spots".
 
-@cromwell:
-- social interaction is most likely indirect on a bike
-- close distance and low speed are good
+@cromwell makes several assertions about cycle-based interaction, two of which are:
+
+1. Proximity of bicyclists is crucial for interaction to take place
+2. A lower speed differential between two bicyclists means that they will remain in proximity for a longer time
+3. Places of pause provide the best opportunities for interaction, as bicyclists have no speed differential
+
+Consequently, to identify areas that offer good conditions for meaningful social interaction to take place, one can look towards areas where cyclists are *slow*. At the same time, a certain amount of rides must be taken through said area, in order for it to offer any social interactions at all.
 
 ### Execution
 
-This experiment is the most disembodied one, as it does not rely on anyone riding the bike in order to execute it. Rather, it relies on existing data of bicycle journeys throughout Malmö and its surroundings.
+This experiment is the most \todo[disembodied] one, as it does not rely on anyone riding the bike in order to execute it. Rather, it relies on existing location data of bicycle journeys throughout Malmö and its surroundings.
 
 The ride data were provided by courtesy of The Bike Data Project^[See [http://www.bikedataproject.org/](http://www.bikedataproject.org/)], which collects bicycle ride data in order to convince local governments of the importance of more bicycle-friendly cities and facilities. The data were \todo[provided] in a GeoJSON^[\todo[what is geojson?]] file and are constituted of approximately 2600 distinct rides. For each ride, the GeoJSON file contains the geographic coordinates (latitude and longitude) of individual points within the ride.
 
-\todo[in which interval were the gps coords read?]
+\todo[in which interval were the gps coords read? await answer from tbdp]
 
-To plot the rides onto a map, I decided to create a JavaScript program which can be run in a web browser, along with the Leaflet^[\todo[What is leaflet?]] library. JavaScript's functional programming paradigm allows for easy filtering of the masses of data points, while Leaflet provides tools to easily display and manipulate maps and GeoJSON data.
+To plot the rides onto a map, I decided to create one JavaScript program for filtering the rides for relevant data, and a second JavaScript program that uses the Leaflet^[\todo[What is leaflet?]] library to display the rides and analysis in a web browser. JavaScript's functional programming paradigm allows for easy filtering of the masses of data points, while Leaflet provides tools to easily display and manipulate maps and GeoJSON data. \todo[github?]
 
 #### Identifying areas of frequent/dense bicycle traffic
 
-- divide the map into a grid
-- in every field, check for the number of rides that cross it
-- if it's above the threshold, mark it and mark the rides within it
-- plot the rides that are marked
-- highlight the fields that are marked
+In order to identify areas, the map (central Malmö) can be divided into a grid of arbitrary size^[Another, quite different approach would have been to ignore the 'density' of traffic altogether and rely only on the human eye. This way, one could have plotted all rides in the map, but each location point in a colour depending on its distance to both neighbours.]. For every field of this grid, an equivalent to the following procedure is executed:
+
+1. Retrieve the number of rides that cross this field
+2. If the number is above a certain threshold, mark this field and the rides within it
 
 #### Identifying areas of low speed
 
 The current speed or pace is, unfortunately, not tracked by The Bike Data Project. However, a general \todo[approximation] of it (slower/faster) can be derived from the individual location coordinates of one ride. This algorithm makes use of the fact that it is common practise for route tracking applications, such as *Bikes vs Cars*, *Map My Ride*, *Strava* or *Runkeeper*, to record the \todo[geolocation] in certain time intervals (e.g. every second or every two seconds). Therefore, if the \todo[data points] of one ride, in a certain area, are closer together, one can assume that the cyclist was riding slower; on the other hand, if the \todo[data points] are further apart, one can conclude that the cyclist was riding faster.
 
-- take the same grid
-- look only into marked rides
-- check the data points within the marked fields, **but for each ride individually**, as otherwise it would just favour those with frequent travel even if ppl are fast
-- create a sort of density rating for each ride within each marked field
-- if the avg density is above the threshold, mark this field
-- highlight the marked fields (also plot the rides), remove the old highlights tho
+The following procedure assumes the grid from the previous step and is applied to each of the marked fields:
 
-* * *
+1. For each marked ride, check how many of its data points (GPS coordinates) are located within the field
+2. Get the average number of data points per ride in this field
+3. If the average is above a certain threshold, mark the field
 
-- cross areas of frequent rides with areas of low speed
-- these crosspoints are places that foster (social) interaction
+#### Visualizing
+
+After the programmatical analysis of the ride data, the results can be visualized on a map.
+- plot rides
+- show fields, opacity = avg density
+
+\begin{figure}[htpb]
+  \centering
+  \includegraphics[keepaspectratio,width=0.8\textwidth]{exp2-overview.png}
+  \caption{Map}
+  \label{fig:overview}
+\end{figure}
 
 ### Results
 
-\begin{figure*}[!ht]
-  \centering
-  \includegraphics[keepaspectratio,width=\textwidth]{exp2-overview.png}
-  \caption{Map}
-  \label{fig:overview}
-\end{figure*}
+As was to be expected, many of the spots identified are obvious points of frequent, slow traffic: stop lights, crossings, parking. But of much more interest are stop where there is no obvious reason, on first sight, for people to cycle slowly. Two of the identified spots are analysed in this section.
 
-\todo[Put the identified places here]
+Figure \ref{fig:centralen} shows details of Malmö central station along with its bus stop. Going through the highlighted areas from left to right, top row first:
+
+- The first area contains a bike path approach a traffic light (but not the traffic light itself). It also contains bike parking spaces, a bridge, and a way to enter the train station underground.
+- The second area is a crossing with several bike paths. It also contains the longest streak of a bike path going in front of the main entry of Malmö central station, which is passed quite often by pedestrians. Presumably, cyclists are careful here.
+- The third area contains some dangerous spots: the entry and exit of buses into the bus station. Cyclists coming from north and continuing on the bike path have to take a left turn, where they often encounter pedestrians trying to cross the cycle path right at the corner.
+- The fourth area is most interesting: there is no bike parking here, nor are there any traffic lights or crossings. But out of the five fields around central station, it is the one with the highest average "slow-ness" of cyclists --- something that I would have expected for the previous area. This one, however, contains only a straight bike path, in between the bus lane and sidewalk. It could be that cyclists are slowed down because of pedestrians crossing the cycle path; it could also be that cyclists, after the rather stressful area before, enjoy the ease of the ride at this spot. This is a question this experiment cannot answer, but which moves this area in focus of further research.
+- The last area contains a crossing as well as a way towards the entrance to underground bike parking.
+
+\begin{figure}[htpb]
+  \centering
+  \includegraphics[keepaspectratio,width=\textwidth]{exp2-centralen.png}
+  \caption{Map}
+  \label{fig:centralen}
+\end{figure}
+
+Another interesting spot is Erik Dahlbergsgatan (Figure \ref{fig:erik}). This spot is not spectacular at all --- while there is a crossing, this area is part of a residential area and does not have any heavy car traffic. It is, however, part of the route of many cycle commuters. \todo[more?]
+
+\begin{figure}[htpb]
+  \centering
+  \includegraphics[keepaspectratio,width=0.5\textwidth]{exp2-erik.png}
+  \caption{Map}
+  \label{fig:erik}
+\end{figure}
 
 ### Reflection
 
-- an interactive, real-time version of this map could help people avoid routes with too much traffic; or help find them places for people-watching etc
-- bikedataproject.org, Strava
+The results in this experiment depend on many factors: the quality, amount and relevance of data, the parametric choices the designer takes, and the actual research interest of the designer.
 
-- the ppl who use the bikedataproject or other apps are not ordinary ppl, but those who are enthusiastic about bicycling activism or sports or self-quantification !
+An important role plays the data source, because different data sources represent different types of cyclists. Applications like Strava, Endomondo or RunKeeper are mostly used for exercise, and would thus show predominantly the routes of exercise rides by physically active cyclists. The Bike Data Project, one can assume, holds mostly data from bicycling enthusiasts and activists: people who care about bicycling as a practice in their daily lives, and want to chance the conditions for bicycling in their city for the better. Both groups are not representable for everyday urban commute bicycling, and one has to keep that in mind while interpreting the outcomes.^[A more representable data source would be movement profiles created e.g. by Google for Android phones; \todo[but privacy]] 2600 rides in about two weeks average about 185 rides per day --- barely a fraction of the number of rides taking place in Malmö each day\todo[data?]. Consequently, it can be said that the data provided to me are not representable; however, it does not diminish the value of using data analysis as a tool.
 
-- technical difficulties: just loading all the rides into the map takes an eternity
-- a data-savvy designer can do all sorts of stuff with this
+The second factor to keep in mind is the designer's power to make choices that influence the interpretation:
 
-## Experiment 3 --- Interaction inventory
+- Changing the grid size influences the geographical precision. The smaller each field (and thus, the smaller the area covered), the more detailed can we look a certain piece of urban landscape. However, very small fields can lead to bad results, e.g. if the field is so small that only a few data points on each ride touch it.
+- How many rides per field does the designer consider to be "many"? It very much depends on the amount of data and the chosen grid size, but also on the designer's decision where to set the threshold.
+- How many data points per ride and field does the designer consider to be "many"? A ride can cross a rectangular field at a corner, go straight through, or even take a loop inside. The derived "pace" is not comparable in this case --- which means that the designer has to rely on an idealised assumption. 
+
+As can be seen, these questions do not only concern the designer's choice but also technical problems inherent in the algorithm. Arguably, there are better algorithms that would lead to more precise results. However, making the map as precise as possible was not the goal of this experiment; rather, I wanted to show that, using existing route data, a designer can derive knowledge about how people cycle the city. It is an inherent property of maps (and other representations) that they are not a precise reflection of reality, but sacrifice precision in favour of a point they are trying to make [@suchman].
+
+The last factor of importance is the designer's research interest. While, in this experiment, I was interested in spaces for probable social interaction based on Cromwell's presumptions, a designer can use these data along with visualisation to find many other spaces of interest. For example, one could identify spaces where cyclists often come to a sudden halt, which would indicate failed negotiation of social rules between road users; one could design a real-time version of this map to help people avoid heavy traffic, or to help the "flanêur on wheels" to find spots and routes for people-watching".
+
+\todo[closing sentence: super-cool for all sorts of things, promosing; can inform further ethnographic work or whatever]
+
+## Experiment 3 --- Interaction Analysis
 
 \todo
 
@@ -211,28 +247,4 @@ You have a conversation with the experience - oh man, classic!
 
 - Laura's method is nice, because independent and does not involve special researcher's time and can be made on Laura's own time
 - Luisa's needs more coordination efforts, but gives greater insights, but is also technically more difficult?
-
-## Experiment 4 --- Mobile place-making
-
-> Turning "place" on its head
-
-- Place is not only defined by geographical dimensions and constraints, but by the meaning that people associate with it.
-- This experiment suggests the following hypothesis: Riding the bicycle, places are created by riding in different situations and with different co-riders.
-- During the bicycle ride you enter and leave multiple "places". Looking at the concept of "place" from this perspective opens up new questions: how does a map of these places look? How can I navigate from one place to another?
-- "Place" is a moving constellation of people; a different constellation means a different place.
-- @aldred2012 on mobile place-making (a mobile place is constructed in a group ride!): "the sociological significance of mobile places, exploring mobile place-making through an analysis of the practice of weekend group leisure cycling. These rides represent a mobility practice where the main aim of participants may be 'leisure' but most infrastructure used is designated for 'transport'"
-- how to do it: reuse the material gathered in pilot experiment
-- the longer the time together, the bigger the area? or the more people, the bigger?
-
-### Setup
-
-\todo
-
-### Execution
-
-\todo
-
-### Results & Reflection
-
-\todo
 
