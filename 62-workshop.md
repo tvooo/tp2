@@ -97,4 +97,8 @@ The aim of the last activity was to connect the themes identified during Activit
 
 This workshop format seems reasonable to uncover general issues of concern for a biking community. The participants did not have a hard time recalling why they like to bicycle in Malmö, and what factors are detrimental to their ride experience.
 
-\todo[However, it is not so useful to uncover these very subtle happenings, what are totally experiential and stuff.]
+- not suitable to find specific interactions; bad to enquire into special phenomena
+- experiential and stuff
+- subtle
+- memory is apparently not focused
+- ppl recalled bad situations/fuckups, but not nice ones

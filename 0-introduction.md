@@ -1,15 +1,16 @@
 # Introduction
 
+\todo[needs restructuring; I say a lot of things twice; also, more focus needs to be put on my specific interest]
+
 <!-- Ok, what's this about? -->
-
-
-\todo[Mention that it is targeted towards designers, design researches, anthropologists]
 
 Bicycling is often considered to be a very solitary activity. But even when we are not riding intentionally in a group --- be it for a bicycle tour or as a group commute --- bicycling can still be a social experience, as it does not take place in isolation, but "in complex choreography with other multi-modal road users" [@outthere].
 
 Compared to other modes of transportation, bicycling offers a unique combination of experiential qualities. Bicycling happens 'out there', outside of an enclosed room, which allows us to use all our senses and experience the trip and the environment with our whole body. This allows for complex interaction which would not be possible e.g. within a car. At the same time, bicycling happens at a much higher pace than walking, which limits the range of possible interactions somewhat.
 
 The importance of bicyclists for the socio-urban landscape has been recognized by city planners and social scientists alike. Researchers like Katrina Jungnickel, Rachel Aldred, Paul McIlvenny and Justin Spinney focus on bicycling as a social practice in much of their work. But bicycling communities themselves are starting to put more emphasis on social practice as well.
+
+\todo[That's too much on Slow Roll and #CoffeeOutside. Shorten!]
 
 The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes a more conscious bicycling experience. Bicycling communities meet to ride a tour through their city, along neighbourhoods and points of interest. 'Slow Roll' means to ride at a slow pace, allowing for appreciation of the cycling experience and social interaction. *Slow Roll* was started in Detroit, MI, USA in 2010 and has since spread over 9 other cities. It is safe to assume that many more informal meet-ups of this kind are taking place in many parts of the world.
 
@@ -22,7 +23,7 @@ The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.b
 
 A different bicycle-related social phenomenon can be observed under the hashtag `#CoffeeOutside` on social media like Twitter and Instagram. On their way cycling to work, people in cities all over the world stop and meet to have a coffee outside, together. While this movement has emerged from coffee enthusiasm, many arrive to the meet-ups by bike, and the notion of togetherness and spending time outside overlap deeply into bicycling culture.
 
-\todo[Write about the critical mass movement]
+\todo[A line about the critical mass movement]
 
 <!-- Ok, that's nice. But what does that have to do with design? -->
 
@@ -35,8 +36,6 @@ These microinteractions contribute to the total experience of every bicycle jour
 
 Designers are starting to recognise the possibilities that everyday mundane road interactions offer. The Hocman project, described by @esbjornsson, tries to create a space for interaction during brief encounters of motorcyclists; @cromwell approaches indirect social interaction on bicycles from the standpoint of urban planning and landscape architecture; @cheng research designs for co-presence in bicycling exercise; and @rowland derive guidelines for designing cycle-based interactive experiences. Looking at the numerous ways that bicyclists engage with other road users and the environment, one can see the role that interaction design can play in shaping the future socio-urban space. Even more so when cities will adapt to more and more use of walking, bicycling, and public transportation.
 
-In order to design for bicyclists, we must find ways to identify, document, and examine their subtle interactions on the road. In this thesis project I enquire into cycle-based interactions using design experiments and different media, and suggest modes of engaging with vélomobile formations-in-action specifically. In doing so, I aim to contribute to the --- still small --- body of interaction design knowledge in this area.
+In order to design for bicyclists, we must find ways to identify, document, and examine their subtle interactions on the road. In this thesis project I enquire into cycle-based interactions using design experiments and different media, and suggest modes of engaging with vélomobile formations-in-action specifically. In doing so, I aim to contribute to the --- still small --- body of interaction design knowledge in this area, and expand the existing knowledge on ethnographic methodology.
 
-<!-- - Create and execute design experiments that raise interaction design knowledge regarding the phenomenon 
-2. How can random vélomobile formations-in-action be constructively presented in order to convey a richer account of their experience?
--->
+Through conducting design experiments and reflecting on them within a framework of ethnographic methods and representations, I aim to \todo[answer] the research question: *How can we create representations that convey a \todo[richer] account of the bicycling experience and use them to enquire more deeply into cycle-based interactions?* Design practitioners, design researchers and ethnographers alike have an interest in this research area. In exploring experimental ways of enquiry, based on videography, audiography, and mapping, this thesis contributes tools for them to identify interesting spaces, places, and modes of interaction on the bicycle.

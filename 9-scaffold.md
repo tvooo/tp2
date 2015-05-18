@@ -1,6 +1,7 @@
-# Design openings / affordances
 
-\todo[Basically, what I learned from the previous chapter]
+
+<!--
+
 
 * Interesting interactions do not have to be explicit
 * Explicit interactions should not be forced
@@ -8,7 +9,6 @@
 * the experience of riding the bicycle is most complex, unique
 * quality of interactions depends on so much: noise, time together, speed, purpose/goal
 
-<!--
 - Will a feeling of co-presence...
   - increase comfort when riding alone?
   - increase the feeling of safety when riding alone/at night?
@@ -18,6 +18,6 @@
 - How can this (neutral) randomness of chance encounters be turned into (pleasant) serendipity?
 -->
 
-# Conclusion
+# Conclusions
 
-\todo[Reflect on the process and outcome. Name knowledge contributions, draw a line back to the introduction and expectations.]
+\todo[Reflect on the process and outcome. Name knowledge contributions, draw a line back to the introduction and expectations. Have an outlook into the future of cycle-based interaction research and design.]

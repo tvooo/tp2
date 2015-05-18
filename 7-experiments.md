@@ -198,20 +198,15 @@ The last factor of importance is the designer's research interest. While, in thi
 
 ## Experiment 3 --- Interaction Analysis
 
-\todo
-
 > *"'Video records maintain the animation, dynamics of lived
 experience.' --- Video records freeze activity, while affording a (mis)illusion of
 experience."* --- @suchman
 
-This quote of Lucy Suchman is part of a critique she gave her colleagues on a \todo[paper/book] they were writing. It contrasts a original statement from the book with one of her own, in order to raise awareness of the imperfections of video recording as a method. She further states that "practice is lived experience, only partially representable".
+This quote by Lucy Suchman is part of a critique she gave \todo [her colleagues on a paper/book they were writing]. It contrasts a original statement from the book with one of her own, in order to raise awareness of the imperfections of video recording as a method. She further states that "practice is lived experience, only partially representable".
 
-Following in Suchman's footsteps, this experiment aims to explore a way of enquiry that is not just representational, but also reflective. The participant reflects on her own acting and interacting during a bicycle ride with the help of the design researcher --- both during the ride, and after the ride with the help of videography.
+Following in Suchman's footsteps, this experiment aims to explore a way of enquiry that is not just representational, but also reflective. The participant reflects on her own acting and interacting during a bicycle ride with the help of the design researcher --- both during the ride using an audio link and after the ride with the help of videography.
 
 The experiment took place in two iterations \todo[which are described separately, reflected upon individually and whose results are compared to each other.]
-
-
-
 
 > *The goal is to develop our
 representational practices in ways that maintain the
@@ -221,34 +216,122 @@ might be relevant.*
 
 ### Iteration 1 --- Talking about the ride
 
-#### Reflection > Laura
+\todo[Use a name instead of "participant"? Sure is easier to read.]
 
-Spinney2011: One way in which researchers have tried to do this is by employing video as a
-way of retaining and evoking some of the context and detail of the practices under
-scrutiny whilst allowing the researcher to talk through practices ‘as they happen’
-during playback with participants (see for example Laurier, 2004, 2010; Brown, 2008;
-Spinney, 2008; Brown & Spinney, 2009). Laurier (2010) calls this use of video in
-such instances a form of ‘seeing there’.
+The first iteration of this experiment resembles the Interaction Analysis methodology described by @ia.
+
+However, in addition to simply riding and re-viewing the ride later along with the researcher, the participant is asked to actively reflect upon the ride *in situ*. Similar to "thinking aloud", as it is common practice in HCI research, the participant is asked to say her thoughts out loud while bicycling. The audio is recorded using a microphone, and is part of the later review session.
+
+#### Setup & Execution
+
+The setup of this experiment is similar to the one of the pilot experiment: an action camera is mounted on the handlebars of the participant's bicycle. Also, the participant uses a smartphone along with a voice recording application and the microphone of a headset to record her voice. The participant chose a ride from her home in Limhamn to the university in Västra Hamnen.
+
+#### Review
+
+The review session started with a few general questions. There was a major technical problem: the audio recording did not work. Apparently the application crashed during recording and the recording was not saved. However, the ride had just happened the morning of the day we conducted the review, so the memory was still fresh and the participant recovered many details.
+
+
+- boring, no one to race, fewer ppl than usual
+
+When asked to reflect on her "talking out loud", the participant mentioned that it felt awkward and slightly foolish, as she was "talking to herself". On the other hand she said that she could have just been on the phone, which would have been less awkward. She usually waited to be past people to have some distance before making annotations. Also, she made the comments in German, which is less likely to be understood by the people she encountered. The participant did not think that others noticed that she was talking about them; she expected reactions from people, but did not get any. She felt a little uncomfortable with the camera mounter on her handlebars, blinking red as it was recording, so that she thought it would be noticed. She was more worried about invading someone's privacy with the camera than with her talking. Though the recording was gone, she stated that she had been talking all through the ride; sometimes, she would encode her expression with sounds instead of words ("Huuuiiii"), in order to not be explicit during the ride but be able to refer back to it in the review session.
+
+According to the participant, the ride was more "boring" than usual; she did not meet many people on the way, mostly mothers with children in strollers, and few cyclists and runners. She stated that, in summer, she usually needs her bike bell to get through. It was quite windy, but enjoyable as she could ride very fast with tailwind along the beach. Even if, as she said, most human encounters she had were rather negative, she was not annoyed by them as long as everything else is positive --- she saw cherry trees, playing children, she could smell freshly cut grass, and she had tailwind.
+
+- likes more if there are more people, bc strecke is so lang und grade und langweilig; leute gucken is doll, 3km einfach nur gradeaus
+
+The following is a closer look at some events from the ride itself.
+
+Pedestrians yield
+  ~ At the very beginning of the ride, the participant leaves her yard, turns right and rides on the sidewalk for a very short time. Before turning right, she encounters a woman with two children, one on her hand and one in a stroller, approaching from the right. Even if the pedestrians had the right of way, the participant went first. Why is that?
+  
+    There is a moment shortly before, when the participant used her brakes, acknowledging that there is someone on the sidewalk she means to pass. However, according to the participant, the fact that the pedestrians stopped made her think it is okay to go. The video clearly shows the woman looking at the participant, and in combination with her stopping, she means to communicate that she yields for the participant.
+    
+    In my research, I encountered situations like this many times: even though there are formal traffic rules, the social rules of negotiating turns often take precedence. In my experience, this happens more often with cyclists and pedestrians than with motorized traffic. A reason for that could be the expressive power of body and eye contact.
+
+Trouble & repair
+  ~ About a minute later, on a motorized road, the video shows a car taking a U-turn in the middle of the road. Originally approaching from the opposite side, the car ends up on the participants' lane and forces her to a sudden near-stop.
+
+    This incident is, for the participant, what @ia call "trouble": a hitch in the interaction between the participant and the driver of the car. The participants' way to "repair" the hitch is braking and pointing the hitch out to the driver by calling him "Sonntagsfahrer".
+
+Directed attention
+  ~ About 7:30 minutes into the ride, the participant encounters a number of people playing Zorb football^[A form of football played "whilst encased in an inflated Zorb", see [https://en.wikipedia.org/wiki/Zorb_football](https://en.wikipedia.org/wiki/Zorb_football)] on a meadow next to the road. Knowing that the camera would probably not be able to capture this, she takes a small detour into the direction of the event (Figure \ref{fig:zorb}).
+
+Slalom
+  ~ At a later part of the ride, the participant shifts her bike alternating left and ride, as if she was riding slalom. She explains this with her boredom on the 3km long, straight route along the beach. She sometimes does either this, or what she calls "slackline" --- ride on top of the white line dividing cycle pedestrian paths.
+
+#### Reflection
+
+One of the purposes of video ethnography in bicycling research that Spinney distinguishes is a way of "'being there' without actually being there" [-@spinney2011]. Same as with Interaction Analysis, this method allows "the researcher to talk through practices 'as they happen' during playback with participants".
+
+In addition to this widely practised method of doing video ethnography, I asked the participant to actively reflect on the ride during the ride. As an implication, it was expected that this would change the way that the participant rides --- something that ethnographic methods try to avoid as much as possible. However, given the difficulty of studying mobility practices as they happen, this experiment aimed to 
+
+- normal: ich merke was was sie nicht bemerkt -> frau m kindern
+- nicht normal: sie merkt was was ich nie bemerkt haette
+The participant directed me towards things she found interesting, which would not have been on the video if she did not think about it during the ride already (the children, air balls)/
+
+\todo
 
 ### Iteration 2 --- Talking to the ride
 
-You have a conversation with the experience - oh man, classic!
+While the first iteration implement video ethnography in ways already practised [e.g. @spinney2011; @ia; @mcilvenny], the second iteration adds another component: the active involvement of the researcher.
+
+\todo[You have a conversation with the experience - oh man, classic!]
 
 #### Setup
 
-- both participant and researcher get same equipment: gopro and headset
-- researcher calls participant
-- call is recorded
-- video cameras must be started at exact same point in time
+In this iteration, both participant and researchers use the same equipment: an action camera and a smartphone with headset. As in the previous iteration, the camera is mounted on the handlebars and the phone is put in the pocket; but this time, the participant and researcher use both the microphone and the earphones of the headset. Before the ride begins, the research calls the participant using the phone, and they can talk hands-free using their headsets. Using a mobile application^[Another Call Recorder, ACR, [https://play.google.com/store/apps/details?id=com.nll.acr](https://play.google.com/store/apps/details?id=com.nll.acr)], the call is recorded. Due to technical limitations, the call had to be recorded on both phones, each only capturing the respective phone user's voice. After the call is established, the two video cameras are started at the exact same time.
 
-#### postproduction
+During the ride, the researcher rides between 5 and 15 meters behind the participant. It is important not to perceived as a group by other bicyclists, in order not to influence other cyclists' intentions to go in line after the participant. Especially when researching vélomobile formations-in-action, letting someone in between the participant and researcher must me explicitly allowed.
 
-- videos are cut to be side-by-side, or researcher-within-participant, along with call recording as audio
+Similar to the previous iteration, the participant is asked to reflect on the ride and encounters during the ride *in situ*. In addition to this, the phone call between the researcher and participant allows the researcher to enquire into specific events during the ride.
+
+#### Post-production & Review
+
+For review and reflection purposes, the two videos we recorded were merged into one, so they can play side-by-side. @ia describe the picture-in-picture technique (PIP) for similar purposes, but during the post-processing I discovered that a simple video overlay using PIP would hide too much from the video below. In addition, I removed the original sound recorded by the cameras (mostly wind noises) and added instead the audio track recorded by the participant's phone. The three different media streams are not perfectly synchronous, but synchronous enough to be distracting.
+
+\begin{figure}[htpb]
+  \centering
+  \includegraphics[keepaspectratio,width=0.8\textwidth]{sidebyside.png}
+  \caption{Side by side configuration of the two videos}
+  \label{fig:sidebyside}
+\end{figure}
+
+Figure \ref{fig:sidebyside} shows a still of the remixed videos. The different formats are due to different recording settings in the cameras, which were not of the same model. The left video is the participant's view, whereas the right one is the researcher's view.
+
+\todo[Photo of review session]
+
+The review session was structured the same way as in the first iteration. I started with asking the participant some general questions about the ride experience. \todo[more]
+
+
+The following is a closer look at some events from the ride itself.
+
+What is bike space what not?
+  ~ In Malmö's old town, we cross an area that is part of many bicycle journeys --- yet there is no clear bicycle path: it is a *shared space*, shared by pedestrians, cars and bicycles alike.
+
+Girl in front of woman
+  ~ bla
+
+guy crossing street / postman
+  ~ bla
+
+head going left right
+  ~ bla
+
+#### Reflection
+ 
+ ride-along as extension to the walk-along; researcher can be present, place of research is always on the move
+spinney: ride and talk
+
+- The talk goes away from the actual ride, but leads to interesting insights, more on a macro than micro level
+- what would have happened if we didnt do it this way? no ID!
 
 ### Reflection
 
+\todo[Comparing reflection on both iterations]
+
+<!-- 
 - we learn that a video camera fails to grasp a lot of what is going on in the periphery; and what is going on in the periphery is important (Laura's children)
 
 - Laura's method is nice, because independent and does not involve special researcher's time and can be made on Laura's own time
 - Luisa's needs more coordination efforts, but gives greater insights, but is also technically more difficult?
-
+-->
