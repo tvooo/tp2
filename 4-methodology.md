@@ -1,6 +1,7 @@
 # Methodology
 
-This chapter introduces the methodological approach that was followed in the activities of this thesis project. It consists of three themes --- embodiment, representation, and experiments --- which are described individually.
+This chapter introduces the methodological framework that defines the activities of this thesis project. It encompasses the concepts of 'being there', the creation and use of representations, and the exploration of the design space through experiments.
+
 
 <!--
 
@@ -17,32 +18,20 @@ The ways of enquiry in the experiments mostly aim to represent some factors of t
 
 -->
 
-## Embodiment --- experiencing and studying bicycling practice in the field
+## 'Being there' --- experiencing and studying bicycling practice in the field
 
-Bicycling is a practice that is shaped by "the sensory, embodied and social nature of performance" [@spinney2011]; embodiment concerns the placement of the cyclist's body and her acting within the environment. It is therefore crucial to perform bicycling research *in the field*, with one's own body and always paying attention to the subject's body.
+Bicycling is a practice that is shaped by "the sensory, embodied and social nature of performance" [@spinney2011]; embodiment concerns the placement of the cyclist's body and her acting within the environment. It is therefore crucial to perform bicycling research *in the field*, with one's own body and always paying attention to the subject's body and interactions.
 
 In order to design for cycle-based interaction, one cannot (only) study bicyclists in the lab. In this, enquirers into the cycling practice seem to agree with each other: the knowledge is in the practice of bicycling, not in the head of the cyclist.
 
-A number of ethnographic studies have been undertaken focusing on cyclists, the most prominent ones in the UK [e.g. @jungnickel, @spinney].
+Spinney states that "techniques such as surveys are too distant from the embodied practice of cycling, relying at best on verbalised accounts of practice divorced from the context of doing that is so fundamental to the creation of meaning in mobile practices." [-@spinney2011] And as many studies successfully show, ethnography provides more capable tools to capture the experience of bicycling: they do not only rely on in-depth interviews or informal chats, but on ride-alongs and videography. Spinney also expressed the importance of domain-orientation: in order to study bicycling, it sure helps to spend time on the bicycle and with bicyclists.
 
-<!--As any societal practice, bicycling depends on culture, and so one can argue that, in order to design for bicyclists in a certain geographical area, one has to conduct ethnographic studies there as well. But bicycling is also a very unique activity; every bicycle ride is different, and depending on what you are designing it might even make more sense to study particular bicyclists over a period of time, instead of looking for general cultural bicycling behaviour through a wide and open ethnographic study.
--->
-\todo
+#### Reflection in situ
 
-- What did Jungnickel/Aldred do? In-depth interviews, time lapse, informal chats on the bicycle.
-- What did Spinney do? 
-- domain-oriented: spend much time with bicycling
-- how are the experiments, specifically #3, domain-specific? would that work in a different context as well? is there a way to make it MORE domain-specific?
+'Being there' affords a mode of reflection that does not happen after, but *during* the bicycle ride. @beyer describe Contextual Inquiry, part of which is a *think aloud* --- the activity of verbally describing what you are doing and why you are doing it at the exact moment of doing it. For Beyer and Holtzblatt, it is also important for the researcher and subject to take on roles similar to 'apprentice' and 'master' --- the researcher tries to learn from the subject.
+The way of reflecting that is required in a Contextual Inquiry is what @schoen calls 'reflection-on-action'.
 
-### Reflection in situ
-
-\todo
-
-- @beyer: Think aloud, compare to contextual inquiry
-- Refer to D.Schön: It's not *really* reflection-in-action, because it is not professional practice that the cyclist reflects upon. However, I can lead the cyclist to consciiusly reflect on his actions and interactions during the ride, make those interactions visible/obvious.
-- Reflection-in-action means to reflect on ones immediately previous actions, and adapt the future actions accordingly. But we are only aiming to make action more obvious; the reflection is not meant to create "better" practices of bicycling.
-
-> *"The relation between our own social location and our view of others is in part what sustains boundaries among organizational actors, including boundaries between professional designers of technology and technology users."* - @suchman
+To complement existing videographic methods, this mode of reflecting in situ can lead the cyclist to make her subtle actions and interactions more obvious to the researcher. Therefore, to explore the ways that reflection in situ might contribute to research methodology, I let the work of Schön and Beyer & Holtzblatt inform one of my experiments.
 
 ## Representation
 
@@ -50,14 +39,14 @@ A number of ethnographic studies have been undertaken focusing on cyclists, the 
 
 As stated earlier, much knowledge about the practice of bicycling is not in the cyclist's consciousness, but in her body. It is *tacit*, which means it is difficult for the cyclist to communicate it to the designer-researcher in situ. However, re-presentation of an experience can help codify this knowledge, as @spinney2011 suggests.
 
-When researching cycle-based interaction, the designer-researcher needs to make the subtle interactions obvious in order to be able to consider them in the design process. For this, @ia describe a research practice called Interaction Analysis. It makes use of audiovisual recording, transcription, and re-views with analysts and subjects. @spinney2011 further elaborates how video ethnography can be used in bicycling research.
+When researching cycle-based interaction, the researcher needs to make the subtle interactions obvious in order to be able to consider them in the design process. For this, @ia describe a research practice called Interaction Analysis. It makes use of audiovisual recording, transcription, and re-views with analysts and subjects. @spinney2011 further elaborates how video ethnography can be used in bicycling research.
 Two of the experiments described in chapter \todo make use of videographic methods, and I subsequently reflect on them in relation to Interaction Analysis and Spinney's framework.
 
 Video, however, is not the only medium of representation I apply in my experiments; the other one is mapping. While I use videography in a way that is focusing on a single bicyclist's interactions, I use mapping in a way that encompasses many cyclists and aims to *extrapolate* possible spaces for interaction.
 
 \todo[include the source on maps as representation]
 
-### Reflection through representation
+#### Reflection through representation
 
 @ia correctly recognise the bias of camera operator, technology, and analyst in doing Interaction Analysis using videography; they remind the researcher to always be aware of those biases. However, I think they are missing a point that @suchman states as follows:
 
@@ -69,13 +58,7 @@ Maps are affected by biases in the same way; this becomes very explicit in my ow
 
 ## Design experiments
 
-\todo
+This thesis does not aim towards creating a new, better method for enquiry into cycle-based interaction. Instead, I aim to explore the design space of tools for the enquiry into cycle-based interaction. The main vehicle for this exploration is a set of *design experiments*.
 
-This thesis does not aim towards creating a new, better method for enquiry into cycle-based interaction. \todo[But?]
+@mette argue for the use of, and describe models of, design experiments within programmatic design research. While the research in this thesis is certainly not programmatic, the explorative nature affords a similar approach. While it is not reflected in the final report, I reframed the research questions multiple times during the course of this project: from an initial focus on possible design openings for vélomobile formations-in-action, towards ways to enquire into it, finally to an exploration of methodological instruments for cycle-based interaction research.
 
-The main vehicle of enquiry into cycle-based interaction used in this research project are *design experiments*. @mette argue for the use of, and describe models of, design experiments within programmatic design research. While the research in this thesis is certainly not programmatic, design experiments \todo[are the way to go here].
-
-\todo
-
-- @lee
-- Experiments ask questions. What questions do my experiments ask?

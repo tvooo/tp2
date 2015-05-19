@@ -1,6 +1,6 @@
 # Theoretical Framework
 
-This chapter \todo[introduces] theoretical concepts that build the groundwork of this thesis. As I focus on social interaction, it \todo[is imperative] to explore the theory of social relations, with special focus on mobility. Secondly, I look into the social creation of meaning, which leads to place-making. Lastly, this chapter introduces *random vélobmobile formations-in-action*, which are one situation where cycle-based interaction can take place, and are in the focus of this research.
+This chapter introduces theoretical concepts that build the groundwork of this thesis. As I focus on the social practice of bicycling, it seems mandatory to explore the theory of social relations, with special focus on mobility. Secondly, I look into the social creation of meaning, which leads to place-making. Lastly, this chapter introduces *random vélobmobile formations-in-action*, which are one situation where cycle-based interaction can take place, and are in the focus of this research.
 
 ## 'with'
 
@@ -13,7 +13,7 @@ Erving Goffman studied peoples' relations in the public [-@goffman]. He came to 
 
 As bicycling is a form of transportation, the movement within space and the concept of *place* play an important role. @dourish note that "a place is a space which is invested with understandings of behavioural appropriateness, cultural expectations, and so forth" and that places are "spaces that are valued". A place is made by associating meaning with a space, but what does this mean when you are mobile (and thus moving within space constantly)?
 
-Marc Augé coined the term 'non-place' and used it to describe spaces of transition and mobility, for example bus stops and motorways. They are places "where interactions are structured by rules not defined by the people in them" [@spinney2007]. Augé argues that "we do not find these spaces meaningful", due to their nature of fleetingness, temporality and ephemerality. @spinney opposes this assumption with respect to bicycling, as cyclists engage with their socio-urban environment in an embodied and sensory way. He offers an account of meaningful embodied experiences of non-place by means of a narrative of an imaginary bicycle ride through London. \todo[Other accounts also affirm the view that bicycle transport is indeed a place-making activity.]
+Marc Augé coined the term 'non-place' and used it to describe spaces of transition and mobility, for example bus stops and motorways. They are places "where interactions are structured by rules not defined by the people in them" [@spinney2007]. Augé argues that "we do not find these spaces meaningful", due to their nature of fleetingness, temporality and ephemerality. @spinney opposes this assumption with respect to bicycling, as cyclists engage with their socio-urban environment in an embodied and sensory way. He offers an account of meaningful embodied experiences of non-place by means of a narrative of an imaginary bicycle ride through London.
 
 When designing for cycle-based interaction, one must keep in mind the purpose of a ride and, within it, the nature of interactions. We ride the bike for reasons of exercise, as a recreational leisure activity with friends or family, or as a commute ('getting from A to B'). The term 'flâneur' has connotations of idleness, exploration, or conoisseur. While it is mainly used with respect to pedestrians, it can apply to other modes of transportation just as well. Flânerie is often the main purpose for motorcycle rides, and @flaneur \todo[applies this concept to bicycling]. Reflecting on this, it is important to keep in mind the cyclists goals, because they influence how he interacts with his surroundings and how he moves through different mobile places.
 
@@ -34,7 +34,6 @@ interaction, a factor which is often necessarily based on
 existing social conventions with clearly differentiated
 roles." - shared encounters-->
 
-\todo[How does the literature lead to random velomobile formations-in-action?]
 
 In focus of my research work are *random vélomobile formations-in-action* \todo[not quite; I use them more as an example] in urban bicycle traffic. Paul McIlvenny describes vélomobile formations-in-action as "specific arrangements of bodies on
 bikes and configurations of a 'vélomobile with'" [-@mcilvenny]. His work focuses on two or more people on bikes *intentionally* riding together and trying to maintain a conversation. In *random* vélomobile formations-in-action, however, this intentionality is missing. Rather, these formations describe temporary arrangements of bikes and people who are most likely strangers, and just happen to ride together at the same time, at a similar pace, for part of their respective journeys. This phenomenon occurs frequently in urban bicycle traffic, yet we seldom make note of it. The following imaginary narrative describes scenario incorporating the phenomenon:

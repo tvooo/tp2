@@ -19,7 +19,7 @@ This experience led to the planning of Experiment 1. This design experiment aims
 
 ### Setup
 
-As this experiment aims to compare a single route over time, I picked a route that was convenient for me to ride --- one that I would ride frequently anyway. The route from my home in Rönneholm to the student union building of Malmö University in Dockan served therefore as experiment route. The route starts in a residential area, goes along a park and the city library, as well as along a busy road between a park and the old town, and ends in the industrial area of the harbour. \todo[distance in km?]
+As this experiment aims to compare a single route over time, I picked a route that was convenient for me to ride --- one that I would ride frequently anyway. The route from my home in Rönneholm to the student union building of Malmö University in Dockan served therefore as experiment route. The route starts in a residential area, goes along a park and the city library, as well as along a busy road between a park and the old town, and ends in the industrial area of the harbour. It has a length of about 2.2 kilometers.
 
 Prior to each ride, I mounted my phone on my handlebars via a rubber bike mount. I used a simple audio recording app (the same as in the pilot experiment) without a headset or external microphone to capture the soundscape.
 
@@ -40,11 +40,9 @@ With the phone mounted, I rode the route as I would normally do --- depending on
       2     13:20         06:47             16:25        06:32
       3     16:31         07:47             17:39        06:54
       4     17:29         06:49             19:54        07:03
-      5     09:45         06:00             11:04        06:00
+      5     23:15         07:03             23:22        07:03
       
 Table:  Experiment 1 ride times and durations
-
-\todo[fix last ride data]
 
 As can be seen, the ride durations do not differ much, except for the rides during rush hour. In the following, the different recordings were compared based on their wave form (amplitude) and the actual audio samples. In order to do so, I created a Processing^[See [http://www.processing.org](http://www.processing.org)] sketch that allowed the presentation of the audio as wave forms as well as playback.
 
@@ -194,7 +192,7 @@ As can be seen, these questions do not only concern the designer's choice but al
 
 The last factor of importance is the designer's research interest. While, in this experiment, I was interested in spaces for probable social interaction based on Cromwell's presumptions, a designer can use these data along with visualisation to find many other spaces of interest. For example, one could identify spaces where cyclists often come to a sudden halt, which would indicate failed negotiation of social rules between road users; one could design a real-time version of this map to help people avoid heavy traffic, or to help the "flanêur on wheels" to find spots and routes for people-watching".
 
-\todo[closing sentence: super-cool for all sorts of things, promosing; can inform further ethnographic work or whatever]
+\todo[closing sentence: super-cool for all sorts of things, promising; can inform further (ethnographic) research]
 
 ## Experiment 3 --- Interaction Analysis
 
