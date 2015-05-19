@@ -47,6 +47,9 @@ This activity showed me that the cultural background and the goal of the cyclist
 
 \todo[Integrate this into the previous section as far as makes sense]
 
+\todo[Name activity 2 results]
+
+<!--
 - D2 Encountering the same people often?
 - D2 Road trains on bikes
 - D2 Usually go around people cause fast, but sometimes you get stuck
@@ -61,16 +64,21 @@ This activity showed me that the cultural background and the goal of the cyclist
 - D2 As kids: game where you ride up behind someone and start grinding your front wheel on their back wheel
 - G1? Cyclists don;t show with their hands where they;re going. Why to trust them?
 - AA cars don;t use turn signals either
+-->
 
 ### Activity III
 
 The aim of the last activity was to connect the themes identified during Activity I to \phenomenon, which was introduced in Activity II. This was executed as "seeded brainstorming" \todo[quelle?] in groups of two. Each group picked three themes that they found most interesting and were asked to come up with as many ideas regarding \phenomenon and the themes that they could \todo[time?]. \todo[More here]
 
-\todo
+\todo[Name activity 3 results]
+
+<!--
 
 * A dating service that matches people who are holding the handrails on opposite sides of a traffic light.
 * A bicycle that --- if multiple bikes of this model meet --- can quickly be \todo[composed] into a tandem bicycle.
 * dragon? 
+
+-->
 
 <!--
 - christmas time; ppl on the train to get to know each other; couples who actually met on the train, or who become best friends
@@ -91,14 +99,16 @@ The aim of the last activity was to connect the themes identified during Activit
 
 ### Reflect
 
+\todo
+
 - Did this workshop yield the desired results?
 - What did I learn to carry over to design the following experiments?
-- What design advice came out of the workshop? -> the four clusters are super-neat!
+- What design advice came out of the workshop? -> the four clusters
 
 This workshop format seems reasonable to uncover general issues of concern for a biking community. The participants did not have a hard time recalling why they like to bicycle in Malmö, and what factors are detrimental to their ride experience.
 
 - not suitable to find specific interactions; bad to enquire into special phenomena
-- experiential and stuff
+- experiential
 - subtle
 - memory is apparently not focused
-- ppl recalled bad situations/fuckups, but not nice ones
+- ppl recalled bad situations, but not nice ones

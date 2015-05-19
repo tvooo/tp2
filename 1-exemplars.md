@@ -45,6 +45,8 @@ In other work, Spinney discusses the use of Mobile Video Ethnography in cycling 
 
 The focus in McIlvenny's work lies on the relationship between the participants, how they act as a group and expose their being-a-group. It is not so much focused on the relationship between the participants and other actors (such as other road users or the environment). McIlvenny analyses the video recordings along with the conversation, by transcribing individual moves of the cyclists (e.g. *"H pulls up to the red traffic lights"*) together with the spoken words. While other actors are mentioned (*"a pedestrian is walking on the cycle path up ahead"*), they are only treated as triggers to switch into different \velo (*"Lyn moves ahead into single file formation"*).
 
+<!--
+
 ## Mapping the Design Space
 
 This chapter takes a look back at the exemplars and maps them out according to a set of different parameters. Subsequently, I identify gaps in the design space and explain how microinteractions in chance encounters and vélomobile formations-in-action fit into the space.
@@ -89,3 +91,5 @@ This chapter takes a look back at the exemplars and maps them out according to a
 @cromwell
 
 @esbjornsson
+
+-->
