@@ -1,20 +1,20 @@
-## Pilot experiment --- \todo[Video-tracking bicycle sociability]
+## Pilot experiment --- Video-tracking bicycle sociability
 
-@jungnickel describes a method of creating time-lapse videos of bicycle rides with the aim of conveying a sense of 'there-ness' resulting from the visual experience. This experiment builds on her method and, in addition to the feeling of 'being-there', tries to convey a sense of the fluctuating social environment during the ride as well. In other words, I aim to represent Jensen's [-@jensen] interpretation of the 'mobile with'.
+@jungnickel describes a method of creating time-lapse videos of bicycle rides with the aim of conveying a sense of 'there-ness' resulting from the visual experience. This experiment builds on her method and, in addition to the feeling of 'being-there', tries to convey a sense of the fluctuating social environment during the ride as well. In other words, I aim to represent Jensen's [-@jensen] interpretation of the 'mobile with' as well as was @jungnickel calls 'feeling there'.
 
-For this, I recorded photos of two rides around the city of Malmö. Similar to Jungnickel, I composed these photos without any further editing or filtering into a time-lapse video. However, instead of just playing the photos at a constant speed, I modified the frames per second (FPS) of the video depending on the size of my current formation: when I was riding alone, the video would play at a fast pace, and it would slow down whenever I would be with others; the bigger the formation, the slower the video.
+For this, I recorded photos of two rides around the city of Malmö. Similar to Jungnickel, I composed these photos without any further editing or filtering into a time-lapse video. However, instead of just playing the time-lapse at a constant speed, I modified the frames per second (FPS) of the video depending on the size of my current formation: when I was riding alone, the video would play at a fast pace, and it would slow down whenever I would be with others; the bigger the formation, the slower the video.
 
 ### Setup
 
 After a few short tests with several time-lapse applications, using a mobile phone camera for image capture proved not to be feasible. The bike mount I had available did not allow for the phone to be in an upright position (so that the camera could point forwards). The images it caught were shaking, alternating in brightness, had blurs (probably because of refocusing) and were --- worst of all --- not very interesting, as they showed mostly my front wheel and part of the road in front of me.
 Instead, I used an action camera (in this case a GoPro HD Hero 2). The camera came with a proper bike mount for the handlebars, and is made for 'action' situations, i.e. short exposure, bad lighting conditions, and heavy shaking.
-Before starting the ride, I set the camera to time-lapse mode, which means that it captures  still images in defined intervals. I set the interval to be 500ms, which is the shortest interval supported by the camera. This seemed sufficient for the purpose, as @jungnickel used 2-second intervals.
+Before starting the ride, I set the camera to time-lapse mode, which means that it captures  still images in defined intervals. I set the interval to be 500ms, which is the shortest interval supported by the camera. This seemed sufficient for the purpose, as Jungnickel used 2-second intervals.
 
-In addition to the equipment for capturing pictures, I used my phone to record audio. Using a simple audio recording application and a headset with the microphone placed near my neck, I could record any thoughts and remarks I had during my ride, and thus record any non-visual impression, namely the side of my current vélomobile formation-in-action.
+In addition to the equipment for capturing pictures, I used my phone to record audio. Using a simple audio recording application and a headset with the microphone placed near my neck, I could record any thoughts and remarks I had during my ride, and thus record any non-visual impression: specifically, the size of any vélomobile formation-in-action I was part of.
 
 ### Execution
 
-Before going on the ride, I started the audio recording on my phone. I then started the action camera while noting the exact time in my phone. The ride itself was made at a more or less constant pace, but as natural as possible. When ever the number of people around me changed because I joined or left a formation, passed someone, or was passed by someone, I noted the number of people in my formation using the audio recording.
+Before going on the ride, I started the audio recording on my phone. I then started the action camera while noting the exact time in my phone. The ride itself was made at a more or less constant pace, but as natural as possible. When ever the number of people around me changed because I joined or left a formation, passed someone, or was passed by someone, I recorded the number of people in my formation by speaking into the microphone.
 This way, I captured two different rides on the same day, in the following referred to as *Ride A* and *Ride B*.
 
 ### Post-production
@@ -29,7 +29,7 @@ The result of this experiment are two time-lapse videos of my bike rides through
   \centering
   \hspace*{-31.5mm}%*
   \includegraphics[keepaspectratio,width=\paperwidth]{rideBstrip.jpg}
-  \caption{Still shots from Ride B}
+  \caption{Stills from Ride B}
 \end{figure*}
 
 In both videos, the solitary parts ('single') are significantly more prominent than the parts I am part of a formation ('with'). However, in the video of Ride B I am part of a bigger formation --- up to five people at one point. The contrast between the different playback speeds can be 'felt' and seen quite clearly here, more so than in the video of Ride A.

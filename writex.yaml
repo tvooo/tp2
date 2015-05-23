@@ -1,7 +1,8 @@
 template: tvooo-thesis
 abstract: true
+acknowledgements: true
 bibtex: true
-glossary: true
+glossary: false
 level: chapter
 engine: xelatex
 preamble: preamble.tex
@@ -9,5 +10,5 @@ titlePage: title.tex
 document:
   author: Tim von Oldenburg
   date: \today
-  title: Representing cycle-based interaction 
+  title: Representing bicycle-based interaction 
   subtitle: An interaction design exploration into bicycling research
