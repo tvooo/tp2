@@ -46,8 +46,7 @@ As can be seen, the ride durations do not differ much, except for the rides duri
   \label{fig:waveforms}
 \end{figure}
 
-Figure \ref{fig:waveforms} shows the five wave forms of the tracks recorded on the rides forth. They are plotted below each other, for easy visual comparison. By 'stretching' each track to a certain width, I make sure that the X axis represents the route, rather than the time. Displaying the playhead at the same temporal position for each track, it has a different visual position (on the X axis) because the tracks have a different time length.
-
+Figure \ref{fig:waveforms} shows the five wave forms of the tracks recorded on the rides forth. They are plotted below each other, for easy visual comparison. By 'stretching' each track to a certain width, I make sure that the X axis represents the route, rather than the time. The currently playing track is highlighted in a green colour, and its playhead is red. The playheads are displayed at the same temporal position for each track; due to the different lengths of each track their playheads have different visual positions (on the X axis).
 
 ### Results
 
@@ -115,12 +114,12 @@ In order to identify areas, the map (central Malmö) is divided into a grid of a
 1. Retrieve the number of rides that cross this field
 2. If the number is above a certain threshold, mark this field and the rides within it
 
-\begin{figure}[htpb]
+\begin{figure*}[!htpb]
   \centering
   \includegraphics[keepaspectratio,width=0.8\textwidth]{grid.png}
   \caption{Grid overlaying a map of Malmö}
   \label{fig:grid}
-\end{figure}
+\end{figure*}
 
 #### Identifying areas of low speed
 
@@ -136,12 +135,12 @@ The following procedure assumes the grid from the previous step and is applied t
 
 After the programmatical analysis of the ride data, the results can be visualized on a map. The rides are drawn in a bright orange, but nearly transparent, colour. This way, it is easy for the eye the comprehend if there are more or less rides at one spot, as the lines get more opaque if they overlay each other. The areas which contain interaction hot spots are drawn using blue rectangles. The degree of opacity indicates the average density of geolocation points within it; the slower the average pace of bicyclists in an area, the more opaque the blue rectangle.
 
-\begin{figure}[htpb]
+\begin{figure*}[ht]
   \centering
   \includegraphics[keepaspectratio,width=0.8\textwidth]{exp2-overview.png}
   \caption{Relevant routes and interactional hot spots}
   \label{fig:overview}
-\end{figure}
+\end{figure*}
 
 ### Results
 
@@ -191,17 +190,17 @@ Using quantitative data analysis in the context of bicycling research is not a n
 
 ## Experiment 3 --- Interaction Analysis
 
-> *"'Video records maintain the animation, dynamics of lived
+> *'Video records maintain the animation, dynamics of lived
 experience.' --- Video records freeze activity, while affording a (mis)illusion of
-experience."* --- @suchman
+experience.* --- @suchman [p. 60]
 
-These two contrasting statements came to being while Lucy Suchman was reading through a paper of her colleagues Francoise Brun-Cottan and Patricia Wall. By example, this juxtaposition illustrates the imperfections of videography as an ethnographic method. Suchman is well aware of these imperfections, this lack of objectivity: "practice is lived experience, only partially representable". She even embraces and utilises it as a quality of representations:
+These two contrasting statements came to being while Lucy Suchman was reading through a paper of her colleagues Francoise Brun-Cottan and Patricia Wall. By example, this juxtaposition illustrates the imperfections of videography as an ethnographic method. Suchman is well aware of these imperfections, this lack of objectivity: "practice is lived experience, only partially representable" [-@suchman, p. 60]. She even embraces and utilises it as a quality of representations:
 
 > *The goal is to develop our
 representational practices in ways that maintain the
 connections among representations, their authors,
 their interests, and other knowledge and images that
-might be relevant.* --- @suchman
+might be relevant.* --- @suchman [p. 63]
 
 Following in Suchman's footsteps, this experiment aims to explore a way of enquiry that is not just representational, but also reflective. The participant reflects on her own acting and interacting during a bicycle ride with the help of the design researcher --- both during the ride using a voice call or audio recording, and after the ride with the help of videography.
 
@@ -254,19 +253,17 @@ Slalom
 
 #### Reflection
 
-One of the purposes of video ethnography in bicycling research that Spinney distinguishes is a way of "'being there' without actually being there" [-@spinney2011]. Same as with Interaction Analysis, this method allows "the researcher to talk through practices 'as they happen' during playback with participants".
+One of the purposes of video ethnography in bicycling research that Spinney distinguishes is a way of "'being there' without actually being there" [-@spinney2011, p. 166]. Similar to Interaction Analysis, this method allows "the researcher to talk through practices 'as they happen' during playback with participants" (ibid.).
 
-In addition to this widely practised method of doing video ethnography, I asked the participant to actively reflect on the ride during the ride. As an implication, it was expected that this would change the way that the participant rides --- something that ethnographic methods try to avoid as much as possible. However, given the difficulty of studying mobility practices as they happen, this experiment showed a sensible way to \todo 
+In addition to this widely practised method of doing video ethnography, I asked the participant to actively reflect on the ride during the ride. As an implication, it was expected that this would change the way that the participant rides --- something that ethnographic methods try to avoid as much as possible. However, given the difficulty of studying mobility practices as they happen, this experiment showed a sensible way to find out more about the ride than is possible with *only* videography.
 
-<!--
-- normal: ich merke was was sie nicht bemerkt -> frau m kindern
-- nicht normal: sie merkt was was ich nie bemerkt haette
-The participant directed me towards things she found interesting, which would not have been on the video if she did not think about it during the ride already (the children, air balls)/
--->
+Using conventional video ethnography, it is to be expected that, during the review session, the researcher notices events that the participant did not consciously think about (one example here is 'Pedestrians yield'). Less expected is that the participant notices and directs the researcher's attention towards an event that would otherwise have gone unnoticed. A good example for this is 'Directed attention'. One can assume that, would Laura not have been reflecting on and thinking aloud during the ride, this event would neither be on the video nor on her mind during the review session.
+
+This circumstance shows the importance of both a shared review session including a discussion, and the reflection-on-action that was asked from the participant.
 
 ### Iteration 2 --- Talking to the ride
 
-While the first iteration implement video ethnography in ways already practised [e.g. @spinney2011; @ia; @mcilvenny], the second iteration adds another component: the active involvement of the researcher. In this case, the researcher takes part in the ride. This does not only add an exterior view (what anthropologists would call an "etic" view) to the representation (the recorded video); it also puts the researcher in the context of action and brings the methodology closer to the master/apprentice model advocated by @beyer.
+While the first iteration implement video ethnography in ways already practised [e.g. @spinney2011; @ia; @mcilvenny], the second iteration adds another component: the active involvement of the researcher. In this case, the researcher takes part in the ride. This does not only add an exterior view (what anthropologists would call an "etic" view) to the representation (the recorded video); it also puts the researcher in the context of action and brings the methodology closer to the master/apprentice model advocated by @beyer. In this iteration, the participant does not simply think aloud; she is on a phone call with the researcher, which allows the latter to ask specific contextual questions.
 
 #### Setup
 
@@ -290,7 +287,7 @@ For review and reflection purposes, the two videos we recorded were merged into 
 \begin{figure}[htpb]
   \centering
   \includegraphics[keepaspectratio,width=0.8\textwidth]{sidebyside.png}
-  \caption{Side by side configuration of the two videos}
+  \caption{Side-by-side configuration of the two videos}
   \label{fig:sidebyside}
 \end{figure}
 
@@ -303,11 +300,6 @@ After the initial short interview, we watched through the video. Both Luisa and 
 A general theme that we noticed was that our conversation during the ride drifted quite often, away from the specific immediacy of the ride to more general, high-level discussions. We talked about the Luisa's choice of route and reasons thereof, about shared spaces and space ownership, about the precedence of social rules over written (formal) rules and about the character of some places versus others. Another issue of interest was the fact that Luisa apparently chose the route consciously along more busy sections of the city, in order to gain more material interesting for the research. I did neither intend nor prevent this.
 
 The side-by-side video composition seemed to provide an appealing perspective for Luisa ("So cool to see the two pictures together"). It still had its problems, giving that it was an unusual format and needed the viewer to focus on two things simultaneously: "I get a bit distracted just by watching... it's very interesting".
-
-<!--
-- did not notice what is going on behind her
-- reacts crazy when i tell her. "I hate being in someone's way."
--->
 
 The following is a closer look at some events from the ride.
 
@@ -329,11 +321,11 @@ Shifting focus
 
 This iteration used a ride-along --- as extension to the walk-along --- in addition to conventional mobile video ethnography [@spinney2011]. As such, it was as well a form of auto-ethnography; the researcher and his experience of the ride play as much into the mix as the participant and her experience. The experiment tackled one of the main problems that Spinney describes:
 
-> *"In conducting research on the often solitary and traffic-laden practices of urban cycling for example, my initial problem became one of how to be able to follow people on everyday journeys and be able to talk to them about those journeys, ideally in the context of the journey. Whilst useful in certain contexts, in metropolitan locations a ride-along is often either unsafe or risks precluding the very practice it seeks to investigate, and therefore another way of accessing the experiences of mobile participants was required."*
+> *In conducting research on the often solitary and traffic-laden practices of urban cycling for example, my initial problem became one of how to be able to follow people on everyday journeys and be able to talk to them about those journeys, ideally in the context of the journey. Whilst useful in certain contexts, in metropolitan locations a ride-along is often either unsafe or risks precluding the very practice it seeks to investigate, and therefore another way of accessing the experiences of mobile participants was required.* --- @spinney2011 [p. 166]
 
 Using a phone call allowed us to "talk and ride", as Spinney puts it, but without the necessity of staying close to each other. In addition, the second camera added an "exterior" view to capture the Luisa's actions. But this constellation was, of course, not without problems. It proved difficult at times to find a good distance between me and her; getting too close I would not leave the space open for anyone else, and staying too far away I risked to lose the overview and miss interesting events. I also had to make sure not to stay behind at a traffic light. However, I find these issues are rather minor, and practising research using a phone call (using any technology) proves to be easier and safer than Spinney's ride-along. Other problems still exist, though.
 
-One of the main issues for me was to come up with relevant enquiries *in situ*. I was aware of the "foci of analysis" that @ia describe: rhythm, periodicity, turn-taking, trouble/repair, spatial organization, artefacts, participation structure. During the ride, though, it was extremely difficult to focus on these; that seems easier to do during the review session. In specific situations during the ride, I asked for the Luisa's thoughts and reflections. But soon after, the focus of our conversation would drift to more general topics. These topics, as listed in the previous section, were still relevant to the ride, but not very situated. There is a high probability that a researcher with more practise in this methodology, or an experienced ethnographer, would come up with enquiries that are more relevant to the immediate context.
+One of the main issues for me was to come up with relevant enquiries *in situ*. I was aware of the "foci of analysis" that @ia [pp. 56ff.] describe: rhythm, periodicity, turn-taking, trouble/repair, spatial organization, artefacts, participation structure. During the ride, though, it was extremely difficult to focus on these; that seems easier to do during the review session. In specific situations during the ride, I asked for the Luisa's thoughts and reflections. But soon after, the focus of our conversation would drift to more general topics. These topics, as listed in the previous section, were still relevant to the ride, but not very situated. There is a high probability that a researcher with more practise in this methodology, or an experienced ethnographer, would come up with enquiries that are more relevant to the immediate context.
 
 A research instrument of such effort would be rather worthless if it did not yield more or "better" results than conventional video ethnography. While there is no way to tell for sure which results the latter would have yielded --- after all, every ride is unique and even riding the same route twice would not make the two rides comparable --- there are reasons to believe that some of the encounters we had would have gone unnoticed using more conventional ethnographic methods. Some of the events --- Luisa switching her focus between the pavement and the road, the postman signalling her that he would not cross in front of her, or the woman and child switching their vélomobile formations-in-action --- were hard or even impossible to identify in the video. They only entered our awareness because either one of us noticed them during the ride, as we were actively reflecting on the encounters we had and the actions we took.
 
@@ -341,14 +333,9 @@ The line that distinguishes the researcher from the participant is blurred in th
 
 ### Reflection
 
-\todo[Comparing reflection on both iterations; what to try in future iterations?]
+In this experiment we learned that simple video ethnography fails to grasp a lot of what is going on in the periphery; both in terms of visual space and in terms of the participant's consciousness. An effort to reflect in situ and an exterior view can thus uncover more subtle, peripheral events, as the reflecting sections on both iterations have shown.
 
-<!-- 
-- we learn that a video camera fails to grasp a lot of what is going on in the periphery; and what is going on in the periphery is important (Laura's children)
+The two iterations differ in setup and outcomes; yet I am confident that there is a place for both of them in the repertoire of ethnographers researching bicycling practice. They have different strengths: while the first iteration is relatively simple and cheap to set up, the second iteration needs a lot more time and effort in terms of preparation, coordination, technology, post-production, and review. Laura could do her ride on her own time, and she could decide what to put on the audio recording and what to leave out. Luisa did not have this freedom, as she was in a dialogue with me. Concluding, I would argue that the second iteration gave more insights, especially due to the exterior view. A team of ethnographers and interaction designers could most probably use this method in a very effective way.
 
-- architect/designer has good vocabulary, but biased towards landscape/streets
-outlook/ideas/what to change:
-- the other way round, with someone asking me and getting me talking
-- Laura's method is nice, because independent and does not involve special researcher's time and can be made on Laura's own time
-- Luisa's needs more coordination efforts, but gives greater insights, but is also technically more difficult?
--->
+This is not where it stops, though. Applying and developing a method takes time, and validating one is quite difficult. My approach here --- to reflect on it with respect to Interaction Analysis and conventional video ethnography --- still leaves me with speculative results. I can, however, make a *reasonable assumption* that my experiments yielded results that conventional methods would not have yielded. Progressing on this path, one can experiment even more in this space: How insightful would the results be if reflection in situ was applied to an auto-ethnography situation, i.e. *the researcher* riding and thinking aloud? How useful is the concept of reflection-on-action in a group ride? Experiments do not only to ask questions and find answers, but also to *discover new questions*.
+

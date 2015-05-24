@@ -2,7 +2,7 @@
 
 @jungnickel describes a method of creating time-lapse videos of bicycle rides with the aim of conveying a sense of 'there-ness' resulting from the visual experience. This experiment builds on her method and, in addition to the feeling of 'being-there', tries to convey a sense of the fluctuating social environment during the ride as well. In other words, I aim to represent Jensen's [-@jensen] interpretation of the 'mobile with' as well as was @jungnickel calls 'feeling there'.
 
-For this, I recorded photos of two rides around the city of Malmö. Similar to Jungnickel, I composed these photos without any further editing or filtering into a time-lapse video. However, instead of just playing the time-lapse at a constant speed, I modified the frames per second (FPS) of the video depending on the size of my current formation: when I was riding alone, the video would play at a fast pace, and it would slow down whenever I would be with others; the bigger the formation, the slower the video.
+In order to do so, I recorded photos of two rides around the city of Malmö. Similar to Jungnickel, I composed these photos without any further editing or filtering into a time-lapse video. However, instead of just playing the time-lapse at a constant speed, I modified the frames per second (FPS) of the video depending on the size of my current formation: when I was riding alone, the video would play at a fast pace, and it would slow down whenever I would be with others; the bigger the formation, the slower the video.
 
 ### Setup
 
@@ -21,13 +21,20 @@ This way, I captured two different rides on the same day, in the following refer
 
 Ride A went for about 30 minutes and captured more than 3000 photos, whereas Ride B went for about 15 minutes and captured more than 1500 photos. With the command-line program `ffmpeg` I created a time-lapse video from each of the rides at 30 frames per second (FPS). This would be the speed representing my solitary phases during the ride. Then, using the video editor iMovie, I slowed down all the scenes in which I was part of a formation. As I carried out this modification manually, the exact speed at which the non-solitary parts of the video play is not constant, but precise enough to make the viewer understand the connection.
 
+Ride A
+  ~ time-lapse video can be found here: [https://youtu.be/OpHkQP4lNro](https://youtu.be/OpHkQP4lNro)
+
+Ride B
+  ~ time-lapse video can be found here: [https://youtu.be/lr9p_OyNHlA](https://youtu.be/lr9p_OyNHlA)
+
+
 ### Result and reflection
 
 The result of this experiment are two time-lapse videos of my bike rides through the city of Malmö.
 
 \begin{figure*}[!ht]
   \centering
-  \hspace*{-31.5mm}%*
+  \hspace*{-26.2mm}%*
   \includegraphics[keepaspectratio,width=\paperwidth]{rideBstrip.jpg}
   \caption{Stills from Ride B}
 \end{figure*}
@@ -36,3 +43,4 @@ In both videos, the solitary parts ('single') are significantly more prominent t
 
 Both videos start with a solo ride and the full 30 FPS. Thus, the transitions between individual frames are short and the overall scene gives a smooth visual impression. However, as soon as I slip into a formation with other cyclists, the number of FPS is (intentionally) cut in half. This is very visible, as not only the playback is slower, but the transitions are sudden and somewhat 'choppy'. While it is generally beneficial that the change in formation is very noticeable, the visual characteristic distracts from the actual message at hand, because it feels like a decrease in quality (which, strictly speaking, it is). With this in mind, it might be worth to utilise a proper video recording instead of time-lapse in another iteration of the experiment. This way, the video would never fall underneath 30 FPS and would be more pleasant to watch.
 
+This experiment did not serve the purpose to explore 'new' methods for bicycling research; back when it was conducted, this was not the frame of my research yet. It led me, however, to question the ways in which we employ representations in our research. Using simple existing tools and a metaphor of time, I could employ video to represent and convey a non-obvious aspect of the bicycling experience.

@@ -28,7 +28,7 @@ As a landscape architect, Cromwell aims to shape the landscape in order to bette
 
 Although Rowland et al. analysed interactive *experiences*, their learnings are relevant for many kinds of cycle-based interaction, especially if additional artefacts are involved.
 
-@cheng focus on bicycling as exercise. Previous research had shown that social peer effects enhance the exercise experience, but Cheng et al. have seen a lack of concrete design advice in this area. They subsequently suggest designs for enhanced bicycling gear, such as glasses, that convey the feeling of the co-presence of another, remote cyclist. They identify factors that are relevant for and propose "an unobtrusive and intuitive interface arrangement based on light". 
+@cheng focus on bicycling as exercise. Previous research had shown that social peer effects enhance the exercise experience, but Cheng et al. have seen a lack of concrete design advice in this area. They subsequently suggest designs for enhanced bicycling gear, such as glasses, that convey the feeling of the co-presence of another, remote cyclist. They identify factors that are relevant for and propose "an unobtrusive and intuitive interface arrangement based on light" [-@cheng, p. 20] that indicates if you are ahead or behind your exercise partner. 
 
 ## Ethnographic studies into Bicycling as Social practice
 
@@ -44,7 +44,7 @@ Part of the outcomes of this study was also Jungnickel's reflection on methodolo
 
 @spinney, through an ethnographic narrative, tells the story of an imaginary bicycle ride through London. In this, he examines how apparently dull places, such as certain roundabouts or underpasses, have meaning for cyclists and thus become *places*. Spinney's research opposes Marc Augé's assumption that spaces of transition and mobility are non-places. Certain places lead to different route choices for different cyclists; for example, one cyclist might avoid a multi-lane, busy roundabout for reasons of safety, while another likes the challenge and sensation of 'flowing' between different cars and the opportunity to ride fast with the traffic.
 
-In other work [-@spinney2011], Spinney discusses three different ways to use mobile video ethnography in cycling research: "video as a way of 'feeling there' when you can't be there; video as a way of apprehending fleeting moments of mobile experience; and video as a tool to extend sensory vocabularies."
+In other work [-@spinney2011], Spinney discusses three different ways to use mobile video ethnography in cycling research: "video as a way of 'feeling there' when you can't be there; video as a way of apprehending fleeting moments of mobile experience; and video as a tool to extend sensory vocabularies." [-@spinney2011, p. 161]
 
 ### Cycling and talking together
 
