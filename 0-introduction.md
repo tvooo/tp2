@@ -8,8 +8,8 @@ Compared to other modes of transportation, bicycling offers a unique combination
 
 The importance of bicyclists for the socio-urban landscape has been recognized by city planners, social scientists, and designers alike. Researchers like Katrina Jungnickel, Rachel Aldred, Paul McIlvenny and Justin Spinney focus on bicycling as a social practice in much of their work. But bicycling communities themselves are starting to put more emphasis on social practice as well:
 
-The *Slow Roll* movement ^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes a more conscious bicycling experience. Bicycling communities meet to ride a slow tour through their city, along neighbourhoods and points of interest, allowing for appreciation of the cycling experience and social interaction.
-A different bicycle-related social phenomenon can be observed under the hashtag `#CoffeeOutside` on social media like Twitter and Instagram. On their way cycling to work, people in cities all over the world stop and meet to have a *coffee outside*, together.
+The *Slow Roll* movement^[See [http://www.slowroll.bike/](http://www.slowroll.bike/)], in analogy to the *Slow Food* movement, promotes a more conscious bicycling experience. Bicycling communities meet to ride a slow tour through their city, along neighbourhoods and points of interest, allowing for appreciation of the cycling experience and social interaction.
+A different bicycle-related social phenomenon can be observed under the hashtag `#CoffeeOutside` on social media like Twitter and Instagram. On their way cycling to work, people in cities all over the world stop and meet to have a coffee outside, together.
 The *Critical Mass* movement^[See [https://en.wikipedia.org/wiki/Critical_Mass_%28cycling%29](https://en.wikipedia.org/wiki/Critical_Mass_%28cycling%29)] is a series of mass bicycle rides all over the world. Goals differ between the various rides, but some want to be seen as protest over the motorization and bad bicycling conditions in cities, others want to be seen as a celebration instead.
 
 \begin{figure*}[!ht]

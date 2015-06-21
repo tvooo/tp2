@@ -1,6 +1,6 @@
-# Theoretical Framework
+# Theoretical framework
 
-This chapter introduces theoretical concepts that build the foundation of this thesis. As I focus on researching the social practice of bicycling, it seems mandatory to explore the theory of social relations, with special focus on mobility. Furthermore, I look into the social creation of meaning, which leads to place-making. Lastly, this chapter introduces *random vélobmobile formations-in-action*, which are one situation where cycle-based interaction can take place. They are used as an example throughout this thesis report.
+This chapter introduces theoretical concepts that build the foundation of this thesis. As I focus on researching the social practice of bicycling, it seems mandatory to explore the theory of social relations, with special focus on mobility. Furthermore, I look into the social creation of meaning, which leads to place-making. Lastly, this chapter introduces *random vélomobile formations-in-action*, which are one situation where cycle-based interaction can take place. They are used as an example throughout this thesis report.
 
 ## Place-making and purpose
 
@@ -30,7 +30,7 @@ bikes and configurations of a 'vélomobile with'" [-@mcilvenny, p. 137]. His wor
   \caption{Illustration of Johan's and Marie's route}
 \end{figure*}
 
-During their chance encounter on Fersens bro and after, Johan and Marie are in a 'vélomobile with' and form a vélomobile formation-in-action. They negotiate their formation with respect to each others cycling abilities and the current environment, without having met each other before.
+During their chance encounter on Fersens bro and after, Johan and Marie are in a 'vélomobile with' and form a vélomobile formation-in-action. They negotiate their formation with respect to each other's cycling abilities and the current environment, without having met each other before.
 
-Random vélomobile formations-in-action are a relevant example for cycle-based interactions because they occur frequently. They both offer space for cyclist-to-cyclist interaction, due to their nature of proximity and matched pace, and they may serve as a trigger for other actions. In this thesis, vélomobile formations-in-action during chance encounters are used as an exemplary target of enquiry.
+Random vélomobile formations-in-action are a relevant example for cycle-based interaction because they occur frequently. They both offer space for cyclist-to-cyclist interaction, due to their nature of proximity and matched pace, and they may serve as a trigger for other actions. In this thesis, vélomobile formations-in-action during chance encounters are used as an exemplary target of enquiry.
 

@@ -37,7 +37,7 @@ Ride \#  & Time & Duration & Time & Duration \\
 \caption{Ride times and durations}\tabularnewline
 \end{longtable}
 
-As can be seen, the ride durations do not differ much, except for the rides during rush hour. In the following, the different recordings are compared based on their wave form (amplitude) and the actual audio samples. In order to do so, I created a Processing^[See [http://www.processing.org](http://www.processing.org)] sketch that allowed playback of the audio as well as its presentation wave forms.
+As can be seen, the ride durations do not differ much, except for the rides during rush hour. In the following, the different recordings are compared based on their wave form (amplitude) and the actual audio samples. In order to do so, I created a Processing^[See [http://www.processing.org](http://www.processing.org)] sketch that allowed playback of the audio as well as its presentation as wave forms.
 
 \begin{figure}[!htpb]
   \centering
@@ -60,26 +60,26 @@ For now, however, it makes the interpretation of the audio more difficult due to
 
 #### Patterns
 
-Comparing the waveforms allows for the identification of common patterns in the distinct journeys. During the rides 2, 3 and 4, beginning with the position of the active playhead in Figure \ref{fig:waveforms}, one can see calmer periods which do not appear in rides 1 and 5. These periods constitute waiting at a traffic light, while in rides 1 and 5, I arrived at the traffic light during a green phase and could cross immediately.
+Comparing the wave forms allows for the identification of common patterns in the distinct journeys. During the rides 2, 3 and 4, beginning with the position of the active playhead in Figure \ref{fig:waveforms}, one can see calmer periods which do not appear in rides 1 and 5. These periods constitute waiting at a traffic light, while in rides 1 and 5, I arrived at the traffic light during a green phase and could cross immediately.
 
-Another common pattern is the long, nearly uninterrupted block of noise in the last third of the journey. This constitutes a long stretch next to a busy motorized road, and the noise comes from both wind and motor traffic.
+Another common pattern is the long, nearly uninterrupted block of noise in the last third of the journey. This constitutes a long stretch next to a busy motorised road, and the noise comes from both wind and motor traffic.
 
 Despite that, I found that the interesting parts are those that break out from the established patterns. The wave forms of rides 2 and 5, which happened during noon and night, respectively, are much more varying than the other ones --- especially in the last third, while riding next to the road. While it is similarly windy in all the tracks, during rides 2 and 5 there was a lot less motorized traffic on the road. This makes sense, given the respective times of day, but it is made very explicit in these soundscapes.
 
 #### Interactional qualities
 
-What is the measure for "interaction" in these soundscapes? While the pilot experiment focused on the number of people around oneself, this experiment has focused on sound, and can there work with the types of sounds being heard or with distinct qualities, such as volume.
+What is the measure for "interaction" in these soundscapes? While the pilot experiment focused on the number of people around oneself, this experiment has focused on sound, and can therefore work with the types of sounds being heard or with distinct qualities, such as volume.
 
-Volume has only a very indirect relation to interaction; when we interact, we do not necessarily make a noise. This happens more frequently in direct, vocal interaction. But sometimes, noise arises alongside our interaction, for example the sound of brakes or a bell. On the other hand, volume is associated with behavioural imperatives, for example the silence in a library or the chatty noises in a café. While bicycling, though, loud noise generally implies busyness, be it due to traffic or construction sites.
-The fact that I met fewer cyclists when riding at night is reflected well in the audio --- but so is the lack of motorized traffic. This allows for the perception of the natural environment in more clarity. It also becomes clear that many events during a bicycle ride take place next to the road, not in its middle. During the ride cyclists are often very focused on the road, and videography supports this "tunnel vision". Audio, on the other hand, shifts the focus to the periphery of our perception.
+Volume has only a very indirect relation to interaction; when we interact, we do not necessarily make a noise. This happens more frequently in direct, vocal interaction. But sometimes, noise arises alongside our interaction, for example the sound of brakes or a bell. On the other hand, volume is associated with behavioural imperatives, for example the silence in a library or the chatty noises in a café. While bicycling, though, loud noise generally indicates busyness, be it due to traffic or construction sites.
+The fact that I met fewer cyclists when riding at night is reflected well in the audio --- but so is the lack of motorised traffic. This allows for the perception of the natural environment in more clarity. It also becomes clear that many events during a bicycle ride take place next to the road, not in its middle. During the ride cyclists are often very focused on the road, and videography supports this "tunnel vision". Audio, on the other hand, shifts the focus to the periphery of our perception.
 
 ### Reflection
 
-The qualities of auditive representations offer interesting potential both for the bicycling researcher and her subject. This potential, however, is not in identifying specific interactions. Instead, it allows to capture the mood, if not the character of a single ride. Besides that, one can find patterns regarding the periphery of the ride --- surroundings, environment, urban landscape, traffic behaviour.
+The qualities of auditive representations offer interesting potential both for the bicycling researcher and her subject. This potential, however, is not in identifying specific interactions. Instead, it allows to capture the mood, or the character, of a single ride. Besides that, one can find patterns regarding the periphery of the ride --- surroundings, environment, urban landscape, traffic behaviour.
 
-For a cyclist, an auditive representation can be a way to re-live the experience of his ride; it can also be a way to share the experience of his ride with others. Possible further design experiments could make use of the audio to accompany a narrative, for example of a bicycle race or tour.
+For a cyclist, an auditive representation can be a way to re-live the experience of her ride; it can also be a way to share the experience of her ride with others. Possible further design experiments could make use of the audio to accompany a narrative, for example of a bicycle race or tour.
 
-As researcher, I could be interested in the influence of different sound characters and parameters on the bicyclist. Do certain sounds, such as motorized traffic, cause distress --- and if so, which alternative routes offer a better soundscape? Can the soundscape be linked to socioeconomic factors of an area? What role does sound play in repairing interactional hitches? And, connecting a soundscape with geolocation data (see next section), how do certain places on the route compare over time?
+As researcher, I could be interested in the influence of different sound characters and parameters on the bicyclist. Do certain sounds, such as motorised traffic, cause distress --- and if so, which alternative routes offer a better soundscape? Can the soundscape be linked to socioeconomic factors of an area? What role does sound play in repairing interactional hitches? And, connecting a soundscape with geolocation data (see next section), how do certain places on the route compare over time?
 
 It is worth looking at the audio separately from any video material. Both can be captured at the same time, using a single capturing device; but reviewing both at the same time makes it hard to focus on the audio, as vision is our predominant sense.
 
@@ -133,7 +133,7 @@ The following procedure assumes the grid from the previous step and is applied t
 
 #### Visualizing
 
-After the programmatical analysis of the ride data, the results can be visualized on a map. The rides are drawn in a bright orange, but nearly transparent, colour. This way, it is easy for the eye the comprehend if there are more or less rides at one spot, as the lines get more opaque if they overlay each other. The areas which contain interaction hot spots are drawn using blue rectangles. The degree of opacity indicates the average density of geolocation points within it; the slower the average pace of bicyclists in an area, the more opaque the blue rectangle.
+After the programmatical analysis of the ride data, the results can be visualized on a map. The rides are drawn in a bright orange, but nearly transparent, colour. This way, it is easy for the eye the comprehend if there are more or less rides at one spot, as the lines get more opaque if they overlay each other. The areas which contain interactional hot spots are drawn using blue rectangles. The degree of opacity indicates the average density of geolocation points within it; the slower the average pace of bicyclists is in an area, the more opaque is the blue rectangle.
 
 \begin{figure*}[ht]
   \centering
@@ -150,7 +150,7 @@ Figure \ref{fig:centralen} shows details of Malmö central station along with it
 
 - The first area contains a bike path leading towards a traffic light (but not the traffic light itself). It also contains bike parking spaces, a bridge, and a way to enter the train station underground.
 - The second area is a crossing with several bike paths. It also contains the longest streak of a bike path going in front of the main entry of Malmö central station, which is passed quite often by pedestrians. Presumably, cyclists are careful in this spot.
-- The third area contains some dangerous spots: the entry and exit of buses into the bus hub. Cyclists who come from north and continue on the bike path have to take a left turn, where they often encounter pedestrians trying to cross the cycle path right at the corner.
+- The third area contains some dangerous spots: the entry and exit of buses into the bus hub. Cyclists who come from the north and continue on the bike path have to take a left turn, where they often encounter pedestrians trying to cross the cycle path right at the corner.
 - The fourth area is most interesting: there is no bike parking here, nor are there any traffic lights or crossings. But out of the five fields around central station, it is the one with the highest average "slow-ness" of cyclists --- something that I would have expected of the previous area. This one, however, contains only a straight bike path, in between the bus lane and pavement. It could be that cyclists are slowed down because of pedestrians crossing the cycle path; it could also be that cyclists, after the rather stressful area before, enjoy the ease of the ride at this spot. This is a question this experiment cannot answer, but which moves this area in focus of further research.
 - The last area contains a small crossing as well as a way towards the entrance to underground bike parking, but also a major road crossing with traffic lights.
 
@@ -186,7 +186,7 @@ As can be seen, these questions do not only concern the designer's choice but al
 
 The last factor of importance is the designer's research interest. While, in this experiment, I was interested in spaces for probable social interaction based on Cromwell's presumptions, a designer can use these data along with visualisation to find many other spaces of interest. For example, one could identify spaces where cyclists often come to a sudden stop, which would indicate failed negotiation of social rules between road users; one could design a real-time version of this map to help people avoid heavy traffic, or to help the "flâneur on wheels" to find spots and routes for people-watching.
 
-Using quantitative data analysis in the context of bicycling research is not a new practice; quite the opposite, it has been a predominant way of enquiry in the past. However, as @spinney2011 states, quantitative analysis cannot capture and represent the fleeting moments of subtle interaction that make up much of the cycling experience. It has nevertheless still a place in research cycle-based interaction: we can use it to inform further, possibly ethnographic or phenomenological, research, for example by identifying further foci for analysis.
+Using quantitative data analysis in the context of bicycling research is not a new practice; quite the opposite, it has been a predominant way of enquiry in the past. However, as @spinney2011 states, quantitative analysis cannot capture and represent the fleeting moments of subtle interaction that make up much of the cycling experience. It has nevertheless still a place in researching cycle-based interaction: we can use it to inform further, possibly ethnographic or phenomenological, research, for example by identifying foci for analysis.
 
 ## Experiment 3 --- Interaction Analysis
 
@@ -209,7 +209,7 @@ The experiment took place in two iterations with two different participants, Lau
 ### Iteration 1 --- Talking about the ride
 
 The first iteration of this experiment resembles the Interaction Analysis methodology described by @ia.
-In addition to simply riding and re-viewing the ride later along with the researcher, the participant is actively reflects upon the ride *in situ*. Similar to the method of 'think aloud', as it is common practice in HCI research [see @beyer], the participant is asked to say her thoughts out loud while bicycling. The audio is recorded using a microphone, and is part of the later review session.
+In addition to simply riding and re-viewing the ride later along with the researcher, the participant actively reflects upon the ride *in situ*. Similar to the method of 'think aloud', as it is common practice in HCI research [see @beyer], the participant is asked to say her thoughts out loud while bicycling. The audio is recorded using a microphone, and is part of the later review session.
 
 #### Setup & Execution
 
@@ -217,7 +217,7 @@ The setup of this experiment is similar to the one of the pilot experiment: an a
 
 #### Review
 
-The review session started with a few general questions. There was a major technical problem: the audio recording did not work. Apparently the application crashed during recording and the recording was not saved. However, the ride had just happened the morning of the day we conducted the review, so the memory was still fresh and Laura recovered many details.
+The review session started with a few general questions. There was a major technical problem: no audio had been recorded. Apparently the application crashed during recording and the recording was not saved. However, the ride had just happened the morning of the day we conducted the review, so the memory was still fresh and Laura recovered many details.
 
 When asked to reflect on her "talking out loud", Laura mentioned that it felt awkward and slightly foolish, as she was "talking to herself". On the other hand she said that she could have just been on the phone, which would have been less awkward. She usually waited to be past people to have some distance before making annotations. Also, she made the comments in German, which is less likely to be understood by the people she encountered. Laura did not think that others noticed that she was talking about them; she expected reactions from people, but did not get any. She felt a little uncomfortable with the camera mounted on her handlebars, blinking red as it was recording, so that she thought it would be noticed. She was more worried about invading someone's privacy with the camera than with her talking. Though the recording was gone, she stated that she had been talking all through the ride; sometimes, she would encode her expression with sounds instead of words ("Huuuiiii"), in order to not be explicit during the ride but be able to refer back to it in the review session.
 
@@ -230,10 +230,10 @@ Pedestrians yield
   
     There is a moment shortly before, when Laura uses her brakes, acknowledging that there is someone on the pavement she means to pass. However, according to her, the fact that the pedestrians stopped made her think it is okay to go. The video clearly shows the woman looking at Laura, and in combination with her stopping, the woman means to communicate that she yields for her.
     
-    In my research, I encountered situations like this many times: even though there are formal traffic rules, the social rules of 'negotiating turns' often take precedence. In my experience, this happens more often with cyclists and pedestrians than with motorized traffic. A reason for that could be the expressive power of body language and eye contact.
+    In my research, I encountered situations like this many times: even though there are formal traffic rules, the social rules of 'negotiating turns' often take precedence. In my experience, this happens more often with cyclists and pedestrians than with motorised traffic. A reason for that could be the expressive power of body language and eye contact.
 
 Trouble & repair
-  ~ About a minute later, on a motorized road, the video shows a car taking a U-turn in the middle of the road. Originally approaching from the opposite direction, the car ends up on Laura's lane and forces her to a sudden near-stop.
+  ~ About a minute later, on a motorised road, the video shows a car taking a U-turn in the middle of the road. Originally approaching from the opposite direction, the car ends up on Laura's lane and forces her to a sudden near-stop.
 
     This incident is, for Laura, what @ia call "trouble": a hitch in the interaction between her and the driver of the car. Laura's way to "repair" the hitch is braking and pointing the hitch out to the driver by calling out a harmless German curse.
 
@@ -241,7 +241,7 @@ Directed attention
   ~ About 7:30 minutes into the ride, Laura encounters a number of people playing Zorb football^[A form of football played "whilst encased in an inflated Zorb", see [https://en.wikipedia.org/wiki/Zorb_football](https://en.wikipedia.org/wiki/Zorb_football)] on a meadow next to the road. Knowing that the camera would probably not be able to capture this, she takes a small detour into the direction of the event (Figure \ref{fig:zorb}).
 
 Slalom
-  ~ At a later part of the ride, Laura shifts her bike alternating left and ride, as if she was riding slalom. She explains this with her boredom on the 3km long, straight route along the beach. She sometimes does either this, or what she calls "slacklining" --- ride on top of the white line dividing cycle and pedestrian paths.
+  ~ During a later part of the ride, Laura shifts her bike alternating left and ride, as if she was riding slalom. She explains this with her boredom on the 3km long, straight route along the beach. She sometimes does either this, or what she calls "slacklining" --- ride on top of the white line dividing cycle and pedestrian paths.
 
 \begin{figure}[htpb]
   \centering
@@ -263,7 +263,7 @@ This circumstance shows the importance of both a shared review session including
 
 ### Iteration 2 --- Talking to the ride
 
-While the first iteration implement video ethnography in ways already practised [e.g. @spinney2011; @ia; @mcilvenny], the second iteration adds another component: the active involvement of the researcher. In this case, the researcher takes part in the ride. This does not only add an exterior view (what anthropologists would call an "etic" view) to the representation (the recorded video); it also puts the researcher in the context of action and brings the methodology closer to the master/apprentice model advocated by @beyer. In this iteration, the participant does not simply think aloud; she is on a phone call with the researcher, which allows the latter to ask specific contextual questions.
+While the first iteration implements video ethnography in ways already practised [e.g. @spinney2011; @ia; @mcilvenny], the second iteration adds another component: the active involvement of the researcher. In this case, the researcher takes part in the ride. This does not only add an exterior view (what anthropologists would call an "etic" view) to the representation (the recorded video); it also puts the researcher in the context of action and brings the methodology closer to the master/apprentice model advocated by @beyer. In this iteration, the participant does not simply think aloud; she is on a phone call with the researcher, which allows the latter to ask specific contextual questions.
 
 #### Setup
 
@@ -273,7 +273,7 @@ In this iteration, both the participant and the researcher use the same equipmen
   \centering
   \includegraphics[keepaspectratio,width=0.8\textwidth]{schema.png}
   \caption{Schema of the ride}
-  \label{fig:sidebyside}
+  \label{fig:schema}
 \end{figure}
 
 During the ride, the researcher rides between 5 and 15 meters behind the participant. It is important not to be perceived as a group by other bicyclists, in order not to influence other cyclists' intentions to go in line after the participant. Especially when researching vélomobile formations-in-action, letting someone in between the participant and researcher must be explicitly allowed.
@@ -286,7 +286,7 @@ For review and reflection purposes, the two videos we recorded were merged into 
 
 \begin{figure}[htpb]
   \centering
-  \includegraphics[keepaspectratio,width=0.8\textwidth]{sidebyside.png}
+  \includegraphics[keepaspectratio,width=0.8\textwidth]{sidebyside.jpg}
   \caption{Side-by-side configuration of the two videos}
   \label{fig:sidebyside}
 \end{figure}
@@ -297,7 +297,7 @@ The review session was structured in a similar way as during the first iteration
 
 After the initial short interview, we watched through the video. Both Luisa and I were free to pause the video at any time to point out interesting events or ask clarifying questions. After we had been through the whole video, I jumped to some specific points of interest for more clarification. The review session was again recorded on audio.
 
-A general theme that we noticed was that our conversation during the ride drifted quite often, away from the specific immediacy of the ride to more general, high-level discussions. We talked about the Luisa's choice of route and reasons thereof, about shared spaces and space ownership, about the precedence of social rules over written (formal) rules and about the character of some places versus others. Another issue of interest was the fact that Luisa apparently chose the route consciously along more busy sections of the city, in order to gain more material interesting for the research. I did neither intend nor prevent this.
+A general theme that we noticed was that our conversation during the ride drifted quite often, away from the specific immediacy of the ride to more general, high-level discussions. We talked about Luisa's choice of route and reasons thereof, about shared spaces and space ownership, about the precedence of social rules over written (formal) rules and about the character of some places versus others. Another issue of interest was the fact that Luisa apparently chose the route consciously along more busy sections of the city, in order to gain more material interesting for the research. I did neither intend nor prevent this.
 
 The side-by-side video composition seemed to provide an appealing perspective for Luisa ("So cool to see the two pictures together"). It still had its problems, giving that it was an unusual format and needed the viewer to focus on two things simultaneously: "I get a bit distracted just by watching... it's very interesting".
 
@@ -323,9 +323,9 @@ This iteration used a ride-along --- as extension to the walk-along --- in addit
 
 > *In conducting research on the often solitary and traffic-laden practices of urban cycling for example, my initial problem became one of how to be able to follow people on everyday journeys and be able to talk to them about those journeys, ideally in the context of the journey. Whilst useful in certain contexts, in metropolitan locations a ride-along is often either unsafe or risks precluding the very practice it seeks to investigate, and therefore another way of accessing the experiences of mobile participants was required.* --- @spinney2011 [p. 166]
 
-Using a phone call allowed us to "talk and ride", as Spinney puts it, but without the necessity of staying close to each other. In addition, the second camera added an "exterior" view to capture the Luisa's actions. But this constellation was, of course, not without problems. It proved difficult at times to find a good distance between me and her; getting too close I would not leave the space open for anyone else, and staying too far away I risked to lose the overview and miss interesting events. I also had to make sure not to stay behind at a traffic light. However, I find these issues are rather minor, and practising research using a phone call (using any technology) proves to be easier and safer than Spinney's ride-along. Other problems still exist, though.
+Using a phone call allowed us to "talk and ride", as Spinney puts it, but without the necessity of staying close to each other. In addition, the second camera added an "exterior" view to capture Luisa's actions. But this constellation was, of course, not without problems. It proved difficult at times to find a good distance between me and her; getting too close I would not leave the space open for anyone else, and staying too far away I risked to lose the overview and miss interesting events. I also had to make sure not to stay behind at a traffic light. However, I find these issues are rather minor, and practising research using a phone call (using any technology) proves to be easier and safer than Spinney's ride-along. Other problems still exist, though.
 
-One of the main issues for me was to come up with relevant enquiries *in situ*. I was aware of the "foci of analysis" that @ia [pp. 56ff.] describe: rhythm, periodicity, turn-taking, trouble/repair, spatial organization, artefacts, participation structure. During the ride, though, it was extremely difficult to focus on these; that seems easier to do during the review session. In specific situations during the ride, I asked for the Luisa's thoughts and reflections. But soon after, the focus of our conversation would drift to more general topics. These topics, as listed in the previous section, were still relevant to the ride, but not very situated. There is a high probability that a researcher with more practise in this methodology, or an experienced ethnographer, would come up with enquiries that are more relevant to the immediate context.
+One of the main issues for me was to come up with relevant enquiries *in situ*. I was aware of the "foci of analysis" that @ia [pp. 56ff.] describe: rhythm, periodicity, turn-taking, trouble/repair, spatial organization, artefacts, participation structure. During the ride, though, it was extremely difficult to focus on these; that seems easier to do during the review session. In specific situations during the ride, I asked for Luisa's thoughts and reflections. But soon after, the focus of our conversation would drift to more general topics. These topics, as listed in the previous section, were still relevant to the ride, but not very situated. There is a high probability that a researcher with more practise in this methodology, or an experienced ethnographer, would come up with enquiries that are more relevant to the immediate context.
 
 A research instrument of such effort would be rather worthless if it did not yield more or "better" results than conventional video ethnography. While there is no way to tell for sure which results the latter would have yielded --- after all, every ride is unique and even riding the same route twice would not make the two rides comparable --- there are reasons to believe that some of the encounters we had would have gone unnoticed using more conventional ethnographic methods. Some of the events --- Luisa switching her focus between the pavement and the road, the postman signalling her that he would not cross in front of her, or the woman and child switching their vélomobile formations-in-action --- were hard or even impossible to identify in the video. They only entered our awareness because either one of us noticed them during the ride, as we were actively reflecting on the encounters we had and the actions we took.
 
@@ -337,5 +337,5 @@ In this experiment we learned that simple video ethnography fails to grasp a lot
 
 The two iterations differ in setup and outcomes; yet I am confident that there is a place for both of them in the repertoire of ethnographers researching bicycling practice. They have different strengths: while the first iteration is relatively simple and cheap to set up, the second iteration needs a lot more time and effort in terms of preparation, coordination, technology, post-production, and review. Laura could do her ride on her own time, and she could decide what to put on the audio recording and what to leave out. Luisa did not have this freedom, as she was in a dialogue with me. Concluding, I would argue that the second iteration gave more insights, especially due to the exterior view. A team of ethnographers and interaction designers could most probably use this method in a very effective way.
 
-This is not where it stops, though. Applying and developing a method takes time, and validating one is quite difficult. My approach here --- to reflect on it with respect to Interaction Analysis and conventional video ethnography --- still leaves me with speculative results. I can, however, make a *reasonable assumption* that my experiments yielded results that conventional methods would not have yielded. Progressing on this path, one can experiment even more in this space: How insightful would the results be if reflection in situ was applied to an auto-ethnography situation, i.e. *the researcher* riding and thinking aloud? How useful is the concept of reflection-on-action in a group ride? Experiments do not only to ask questions and find answers, but also to *discover new questions*.
+This is not where it stops, though. Applying and developing a method takes time, and validating one is quite difficult. My approach here --- to reflect on it with respect to Interaction Analysis and conventional video ethnography --- still leaves me with speculative results. I can, however, make a *reasonable assumption* that my experiments yielded results that conventional methods would not have yielded. Progressing on this path, one can experiment even more in this space: How insightful would the results be if reflection in situ was applied to an auto-ethnography situation, i.e. *the researcher* riding and thinking aloud? How useful is the concept of reflection-on-action in a group ride? Experiments do not only have to ask questions and find answers, but they can also *discover new questions*.
 

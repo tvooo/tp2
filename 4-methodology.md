@@ -7,7 +7,7 @@ This chapter introduces the methodological framework that defines the activities
 Bicycling is a practice that is shaped by "the sensory, embodied and social nature of performance" [@spinney2011, p. 163]; embodiment concerns the placement of the cyclist's body and her acting within the environment. It is therefore crucial to perform bicycling research *in the field*, with one's own body and always paying attention to the subject's body and interactions.
 In order to design for cycle-based interaction, one cannot (only) study bicyclists in the lab. In this, enquirers into the cycling practice seem to agree with each other: the knowledge is in the practice of bicycling, not in the head of the cyclist.
 
-Spinney states that "techniques such as surveys are too distant from the embodied practice of cycling, relying at best on verbalised accounts of practice divorced from the context of doing that is so fundamental to the creation of meaning in mobile practices." [-@spinney2011, p. 163] And as many studies successfully show, ethnography provides more capable tools to capture the experience of bicycling: they do not only rely on in-depth interviews or informal chats, but on ride-alongs and videography. Spinney also expressed the importance of domain-orientation: in order to study bicycling, it sure helps to spend time on the bicycle and with bicyclists.
+Spinney states that "techniques such as surveys are too distant from the embodied practice of cycling, relying at best on verbalised accounts of practice divorced from the context of doing that is so fundamental to the creation of meaning in mobile practices." [-@spinney2011, p. 163] And as many studies successfully show, ethnography provides more capable tools to capture the experience of bicycling: they do not only rely on in-depth interviews or informal chats, but on ride-alongs and videography. Spinney also expresses the importance of domain-orientation: in order to study bicycling, it sure helps to spend time on the bicycle and with bicyclists.
 
 #### Reflection in situ
 
@@ -25,7 +25,7 @@ As stated earlier, much knowledge about the practice of bicycling is not in the 
 When researching cycle-based interaction, the researcher needs to make the subtle interactions obvious in order to be able to consider them in the design process. For this, @ia describe a research practice called Interaction Analysis. It makes use of audiovisual recording, transcription, and re-views with analysts and subjects. @spinney2011 further elaborates how video ethnography can be used in bicycling research.
 Two of the experiments described in chapter \ref{experiments} make use of videographic methods, and I subsequently reflect on them in relation to Interaction Analysis [@ia] and Spinney's framework.
 
-Video, however, is not the only medium of representation I apply in my experiments; the other one is mapping. While I use videography in a way that is focusing on a single bicyclist's interactions, I use mapping in a way that encompasses many cyclists and aims to *extrapolate* possible spaces for interaction.
+Video, however, is not the only medium of representation I apply in my experiments; a second one is audio, and a third one is mapping. While I use videography and audiography in a way that is focusing on a single bicyclist's interactions, I use mapping in a way that encompasses many cyclists and aims to *extrapolate* possible spaces for interaction.
 
 #### Reflection through representation
 

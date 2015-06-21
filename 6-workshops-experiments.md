@@ -1,4 +1,4 @@
-# Workshops and Design Experiments {#experiments}
+# Workshops and design experiments {#experiments}
 
 This chapter describes the different workshops and experiments that I conducted in the course of this project. Due to the explorative nature of my design process, the chapter's five sections do not represent my activities in chronological order:
 
